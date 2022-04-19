@@ -1,0 +1,1682 @@
+[INFO] 21:26:37:497 SWAMP/(8311:8311): iniciar algo...
+[INFO] 21:26:50:226 SWAMP/(8345:8345): Servidor listo pa recibir al cliente
+[INFO] 21:28:14:383 SWAMP/(8465:8465): No se pudo asociar el socket a un puerto
+[INFO] 21:28:42:447 SWAMP/(8471:8471): No se pudo asociar el socket a un puerto
+[INFO] 21:29:13:263 SWAMP/(8510:8510): No se pudo asociar el socket a un puerto
+[INFO] 21:29:59:013 SWAMP/(8552:8552): Servidor listo pa recibir al cliente
+[INFO] 21:45:54:332 SWAMP/(8552:8552): Se conecto un cliente!
+[INFO] 21:45:54:332 SWAMP/(8552:8552): entro a trabajemos con el cliente
+
+[INFO] 21:45:54:332 SWAMP/(8552:8552): tipo asignacion: DINAMICA
+[INFO] 21:55:14:113 SWAMP/(9242:9242): Servidor listo pa recibir al cliente
+[INFO] 21:55:16:477 SWAMP/(9242:9242): Se conecto un cliente!
+[INFO] 21:55:16:477 SWAMP/(9242:9242): entro a trabajemos con el cliente
+
+[INFO] 21:55:16:478 SWAMP/(9242:9242): tipo asignacion: DINAMICA
+[INFO] 21:58:06:781 SWAMP/(9373:9373): Servidor listo pa recibir al cliente
+[INFO] 21:58:10:765 SWAMP/(9373:9373): Se conecto un cliente!
+[INFO] 21:58:10:765 SWAMP/(9373:9373): entro a trabajemos con el cliente
+
+[INFO] 21:58:10:765 SWAMP/(9373:9373): tipo asignacion: DINAMICA
+[INFO] 22:02:02:132 SWAMP/(9465:9465): No se pudo asociar el socket a un puerto
+[INFO] 22:02:12:718 SWAMP/(9473:9473): No se pudo asociar el socket a un puerto
+[INFO] 22:03:57:355 SWAMP/(9493:9493): Servidor listo pa recibir al cliente
+[INFO] 22:04:07:420 SWAMP/(9493:9493): Se conecto un cliente!
+[INFO] 22:04:07:421 SWAMP/(9493:9493): entro a trabajemos con el cliente
+
+[INFO] 22:04:07:421 SWAMP/(9493:9493): tipo asignacion: DINAMICA
+[INFO] 22:04:07:445 SWAMP/(9493:9493): Me llegaron los siguientes valores:
+
+[INFO] 22:04:07:445 SWAMP/(9493:9493): pid: 1... nro_pagina: 0
+[WARNING] 22:04:13:448 SWAMP/(9493:9493): cod_op = -1. No quieras meter la pata
+[INFO] 22:16:03:443 SWAMP/(9621:9621): Servidor listo pa recibir al cliente
+[INFO] 22:16:06:075 SWAMP/(9621:9621): Se conecto un cliente!
+[INFO] 22:16:06:075 SWAMP/(9621:9621): entro a trabajemos con el cliente
+
+[INFO] 22:16:06:075 SWAMP/(9621:9621): tipo asignacion: DINAMICA
+[INFO] 22:16:06:101 SWAMP/(9621:9621): Me llegaron los siguientes valores:
+
+[INFO] 22:16:06:101 SWAMP/(9621:9621): pid: 1... nro_pagina: 0
+[WARNING] 22:16:12:105 SWAMP/(9621:9621): cod_op = -1. No quieras meter la pata
+[INFO] 22:18:13:988 SWAMP/(9706:9706): Servidor listo pa recibir al cliente
+[INFO] 22:18:16:164 SWAMP/(9706:9706): Se conecto un cliente!
+[INFO] 22:18:16:164 SWAMP/(9706:9706): entro a trabajemos con el cliente
+
+[INFO] 22:18:16:164 SWAMP/(9706:9706): tipo asignacion: DINAMICA
+[INFO] 22:18:16:189 SWAMP/(9706:9706): Me llegaron los siguientes valores:
+
+[INFO] 22:18:16:189 SWAMP/(9706:9706): pid: 1... nro_pagina: 0
+[WARNING] 22:18:22:193 SWAMP/(9706:9706): cod_op = -1. No quieras meter la pata
+[INFO] 22:19:19:597 SWAMP/(9728:9728): Servidor listo pa recibir al cliente
+[INFO] 22:19:22:825 SWAMP/(9734:9734): Servidor listo pa recibir al cliente
+[INFO] 22:19:24:541 SWAMP/(9734:9734): Se conecto un cliente!
+[INFO] 22:19:24:541 SWAMP/(9734:9734): entro a trabajemos con el cliente
+
+[INFO] 22:19:24:541 SWAMP/(9734:9734): tipo asignacion: DINAMICA
+[INFO] 22:19:24:573 SWAMP/(9734:9734): Me llegaron los siguientes valores:
+
+[INFO] 22:19:24:573 SWAMP/(9734:9734): pid: 1... nro_pagina: 0
+[WARNING] 22:19:30:576 SWAMP/(9734:9734): cod_op = -1. No quieras meter la pata
+[INFO] 22:20:06:659 SWAMP/(9775:9775): Servidor listo pa recibir al cliente
+[INFO] 22:20:08:787 SWAMP/(9775:9775): Se conecto un cliente!
+[INFO] 22:20:08:787 SWAMP/(9775:9775): entro a trabajemos con el cliente
+
+[INFO] 22:20:08:787 SWAMP/(9775:9775): tipo asignacion: DINAMICA
+[INFO] 22:20:08:819 SWAMP/(9775:9775): Me llegaron los siguientes valores:
+
+[INFO] 22:20:08:819 SWAMP/(9775:9775): pid: 1... nro_pagina: 0
+[INFO] 22:20:14:821 SWAMP/(9775:9775): Me llegaron los siguientes valores:
+
+[INFO] 22:20:14:821 SWAMP/(9775:9775): pid: 1... nro_pagina: 1
+[INFO] 22:24:26:356 SWAMP/(9883:9883): Servidor listo pa recibir al cliente
+[INFO] 22:24:28:716 SWAMP/(9883:9883): Se conecto un cliente!
+[INFO] 22:24:28:716 SWAMP/(9883:9883): entro a trabajemos con el cliente
+
+[INFO] 22:24:28:717 SWAMP/(9883:9883): tipo asignacion: DINAMICA
+[INFO] 22:24:28:754 SWAMP/(9883:9883): Me llegaron los siguientes valores:
+
+[INFO] 22:24:28:754 SWAMP/(9883:9883): pid: 2... nro_pagina: 1
+[INFO] 22:24:34:758 SWAMP/(9883:9883): Me llegaron los siguientes valores:
+
+[INFO] 22:24:34:758 SWAMP/(9883:9883): pid: 2... nro_pagina: 2
+[INFO] 22:26:03:321 SWAMP/(9947:9947): Servidor listo pa recibir al cliente
+[INFO] 22:26:05:425 SWAMP/(9947:9947): Se conecto un cliente!
+[INFO] 22:26:05:425 SWAMP/(9947:9947): entro a trabajemos con el cliente
+
+[INFO] 22:26:05:425 SWAMP/(9947:9947): tipo asignacion: DINAMICA
+[INFO] 22:26:05:463 SWAMP/(9947:9947): Me llegaron los siguientes valores:
+
+[INFO] 22:26:05:463 SWAMP/(9947:9947): pid: 2... nro_pagina: 1
+[INFO] 22:26:05:465 SWAMP/(9947:9947): Me llegaron los siguientes valores:
+
+[INFO] 22:26:05:466 SWAMP/(9947:9947): pid: 2... nro_pagina: 2
+[INFO] 22:27:40:541 SWAMP/(9998:9998): Servidor listo pa recibir al cliente
+[INFO] 22:27:42:454 SWAMP/(9998:9998): Se conecto un cliente!
+[INFO] 22:27:42:454 SWAMP/(9998:9998): entro a trabajemos con el cliente
+
+[INFO] 22:27:42:454 SWAMP/(9998:9998): tipo asignacion: DINAMICA
+[INFO] 22:27:42:490 SWAMP/(9998:9998): Me llegaron los siguientes valores:
+
+[INFO] 22:27:42:490 SWAMP/(9998:9998): pid: 2... nro_pagina: 1
+[INFO] 22:29:43:093 SWAMP/(10080:10080): Servidor listo pa recibir al cliente
+[INFO] 22:29:45:413 SWAMP/(10080:10080): Se conecto un cliente!
+[INFO] 22:29:45:413 SWAMP/(10080:10080): entro a trabajemos con el cliente
+
+[INFO] 22:29:45:413 SWAMP/(10080:10080): tipo asignacion: DINAMICA
+[INFO] 22:29:55:452 SWAMP/(10080:10080): Me llegaron los siguientes valores:
+
+[INFO] 22:29:55:452 SWAMP/(10080:10080): pid: 2... nro_pagina: 1
+[INFO] 22:34:47:205 SWAMP/(10143:10143): Servidor listo pa recibir al cliente
+[INFO] 22:34:49:477 SWAMP/(10143:10143): Se conecto un cliente!
+[INFO] 22:34:49:477 SWAMP/(10143:10143): entro a trabajemos con el cliente
+
+[INFO] 22:34:49:477 SWAMP/(10143:10143): tipo asignacion: DINAMICA
+[INFO] 22:34:59:564 SWAMP/(10143:10143): Me llegaron los siguientes valores:
+
+[INFO] 22:34:59:564 SWAMP/(10143:10143): pid: 2... nro_pagina: 1
+[INFO] 22:41:37:785 SWAMP/(10300:10300): Servidor listo pa recibir al cliente
+[INFO] 22:41:40:966 SWAMP/(10300:10300): Se conecto un cliente!
+[INFO] 22:41:40:966 SWAMP/(10300:10300): entro a trabajemos con el cliente
+
+[INFO] 22:41:40:966 SWAMP/(10300:10300): tipo asignacion: DINAMICA
+[INFO] 22:41:51:012 SWAMP/(10300:10300): Me llegaron los siguientes valores:
+
+[INFO] 22:41:51:012 SWAMP/(10300:10300): pid: 2... nro_pagina: 1
+[INFO] 22:45:33:196 SWAMP/(10390:10390): Servidor listo pa recibir al cliente
+[INFO] 22:45:35:324 SWAMP/(10390:10390): Se conecto un cliente!
+[INFO] 22:45:35:324 SWAMP/(10390:10390): entro a trabajemos con el cliente
+
+[INFO] 22:45:35:325 SWAMP/(10390:10390): tipo asignacion: DINAMICA
+[INFO] 22:45:45:369 SWAMP/(10390:10390): Me llegaron los siguientes valores:
+
+[INFO] 22:45:45:370 SWAMP/(10390:10390): pid: 2... nro_pagina: 1
+[INFO] 22:58:05:090 SWAMP/(10631:10631): Servidor listo pa recibir al cliente
+[INFO] 22:58:07:787 SWAMP/(10631:10631): Se conecto un cliente!
+[INFO] 22:58:07:787 SWAMP/(10631:10631): entro a trabajemos con el cliente
+
+[INFO] 22:58:07:787 SWAMP/(10631:10631): tipo asignacion: DINAMICA
+[INFO] 22:58:07:805 SWAMP/(10631:10631): Me llegaron los siguientes valores:
+
+[INFO] 22:58:07:805 SWAMP/(10631:10631): pid: 2... nro_pagina: 1
+[INFO] 23:15:23:484 SWAMP/(10850:10850): Servidor listo pa recibir al cliente
+[INFO] 23:15:25:300 SWAMP/(10850:10850): Se conecto un cliente!
+[INFO] 23:15:25:300 SWAMP/(10850:10850): entro a trabajemos con el cliente
+
+[INFO] 23:15:25:300 SWAMP/(10850:10850): tipo asignacion: DINAMICA
+[INFO] 23:15:25:319 SWAMP/(10850:10850): Me llegaron los siguientes valores:
+
+[INFO] 23:15:25:319 SWAMP/(10850:10850): pid: 2... nro_pagina: 1
+[INFO] 23:17:24:298 SWAMP/(11006:11006): Servidor listo pa recibir al cliente
+[INFO] 23:17:25:987 SWAMP/(11006:11006): Se conecto un cliente!
+[INFO] 23:17:25:987 SWAMP/(11006:11006): entro a trabajemos con el cliente
+
+[INFO] 23:17:25:987 SWAMP/(11006:11006): tipo asignacion: DINAMICA
+[INFO] 23:17:26:006 SWAMP/(11006:11006): Me llegaron los siguientes valores:
+
+[INFO] 23:17:26:006 SWAMP/(11006:11006): pid: 2... nro_pagina: 1
+[INFO] 23:18:10:385 SWAMP/(11026:11026): Servidor listo pa recibir al cliente
+[INFO] 23:18:11:945 SWAMP/(11026:11026): Se conecto un cliente!
+[INFO] 23:18:11:945 SWAMP/(11026:11026): entro a trabajemos con el cliente
+
+[INFO] 23:18:11:945 SWAMP/(11026:11026): tipo asignacion: DINAMICA
+[INFO] 23:18:11:964 SWAMP/(11026:11026): Me llegaron los siguientes valores:
+
+[INFO] 23:18:11:964 SWAMP/(11026:11026): pid: 2... nro_pagina: 1
+[INFO] 23:19:37:388 SWAMP/(11107:11107): Servidor listo pa recibir al cliente
+[INFO] 23:19:41:901 SWAMP/(11107:11107): Se conecto un cliente!
+[INFO] 23:19:41:901 SWAMP/(11107:11107): entro a trabajemos con el cliente
+
+[INFO] 23:19:41:901 SWAMP/(11107:11107): tipo asignacion: DINAMICA
+[INFO] 23:19:41:920 SWAMP/(11107:11107): Me llegaron los siguientes valores:
+
+[INFO] 23:19:41:920 SWAMP/(11107:11107): pid: 2... nro_pagina: 1
+[INFO] 23:21:24:846 SWAMP/(11173:11173): Servidor listo pa recibir al cliente
+[INFO] 23:21:26:995 SWAMP/(11173:11173): Se conecto un cliente!
+[INFO] 23:21:26:995 SWAMP/(11173:11173): entro a trabajemos con el cliente
+
+[INFO] 23:21:26:995 SWAMP/(11173:11173): tipo asignacion: DINAMICA
+[INFO] 23:21:33:827 SWAMP/(11173:11173): Me llegaron los siguientes valores:
+
+[INFO] 23:21:33:827 SWAMP/(11173:11173): pid: 2... nro_pagina: 1
+[INFO] 00:04:18:493 SWAMP/(12184:12184): Servidor listo pa recibir al cliente
+[INFO] 00:04:20:348 SWAMP/(12184:12184): Se conecto un cliente!
+[INFO] 00:04:20:348 SWAMP/(12184:12184): entro a trabajemos con el cliente
+
+[INFO] 00:04:20:348 SWAMP/(12184:12184): tipo asignacion: DINAMICA
+[INFO] 00:04:27:177 SWAMP/(12184:12184): Me llegaron los siguientes valores:
+
+[INFO] 00:04:27:177 SWAMP/(12184:12184): pid: 2... nro_pagina: 1
+[INFO] 00:13:21:956 SWAMP/(12466:12466): Servidor listo pa recibir al cliente
+[INFO] 00:39:13:787 SWAMP/(12971:12971): Servidor listo pa recibir al cliente
+[INFO] 00:40:22:707 SWAMP/(13048:13048): Servidor listo pa recibir al cliente
+[INFO] 00:56:52:510 SWAMP/(13355:13355): Servidor listo pa recibir al cliente
+[INFO] 00:58:22:066 SWAMP/(13483:13483): Servidor listo pa recibir al cliente
+[INFO] 01:00:33:228 SWAMP/(13561:13561): Servidor listo pa recibir al cliente
+[INFO] 01:01:19:506 SWAMP/(13606:13606): Servidor listo pa recibir al cliente
+[INFO] 01:03:05:448 SWAMP/(13654:13654): Servidor listo pa recibir al cliente
+[INFO] 01:11:52:679 SWAMP/(14026:14026): Servidor listo pa recibir al cliente
+[INFO] 01:11:54:342 SWAMP/(14026:14026): Se conecto un cliente!
+[INFO] 01:11:54:342 SWAMP/(14026:14026): entro a trabajemos con el cliente
+
+[INFO] 01:11:54:342 SWAMP/(14026:14026): tipo asignacion: DINAMICA
+[INFO] 01:13:25:218 SWAMP/(14092:14092): Servidor listo pa recibir al cliente
+[INFO] 01:13:27:202 SWAMP/(14092:14092): Se conecto un cliente!
+[INFO] 01:13:27:202 SWAMP/(14092:14092): entro a trabajemos con el cliente
+
+[INFO] 01:13:27:202 SWAMP/(14092:14092): tipo asignacion: DINAMICA
+[INFO] 01:13:34:031 SWAMP/(14092:14092): Me llegaron los siguientes valores:
+
+[INFO] 01:13:34:031 SWAMP/(14092:14092): pid: 2... nro_pagina: 1
+[INFO] 01:15:25:834 SWAMP/(14245:14245): Servidor listo pa recibir al cliente
+[INFO] 01:15:35:063 SWAMP/(14245:14245): Se conecto un cliente!
+[INFO] 01:15:35:063 SWAMP/(14245:14245): entro a trabajemos con el cliente
+
+[INFO] 01:15:35:064 SWAMP/(14245:14245): tipo asignacion: DINAMICA
+[INFO] 01:16:15:501 SWAMP/(14245:14245): Me llegaron los siguientes valores:
+
+[INFO] 01:16:15:501 SWAMP/(14245:14245): pid: 2... nro_pagina: 1
+[INFO] 01:16:55:174 SWAMP/(14381:14381): Servidor listo pa recibir al cliente
+[INFO] 01:17:04:895 SWAMP/(14381:14381): Se conecto un cliente!
+[INFO] 01:17:04:895 SWAMP/(14381:14381): entro a trabajemos con el cliente
+
+[INFO] 01:17:04:895 SWAMP/(14381:14381): tipo asignacion: DINAMICA
+[INFO] 01:17:11:740 SWAMP/(14381:14381): Me llegaron los siguientes valores:
+
+[INFO] 01:17:11:740 SWAMP/(14381:14381): pid: 2... nro_pagina: 1
+[INFO] 01:20:49:895 SWAMP/(14629:14629): Servidor listo pa recibir al cliente
+[INFO] 01:21:02:328 SWAMP/(14629:14629): Se conecto un cliente!
+[INFO] 01:21:02:329 SWAMP/(14629:14629): entro a trabajemos con el cliente
+
+[INFO] 01:21:02:329 SWAMP/(14629:14629): tipo asignacion: DINAMICA
+[INFO] 01:22:44:277 SWAMP/(14629:14629): Me llegaron los siguientes valores:
+
+[INFO] 01:22:44:277 SWAMP/(14629:14629): pid: 2... nro_pagina: 1
+[INFO] 01:53:24:136 SWAMP/(15066:15066): Servidor listo pa recibir al cliente
+[INFO] 01:53:51:435 SWAMP/(15066:15066): Se conecto un cliente!
+[INFO] 01:53:51:435 SWAMP/(15066:15066): entro a trabajemos con el cliente
+
+[INFO] 01:53:51:436 SWAMP/(15066:15066): tipo asignacion: DINAMICA
+[INFO] 01:54:02:222 SWAMP/(15066:15066): Me llegaron los siguientes valores:
+
+[INFO] 01:54:02:222 SWAMP/(15066:15066): pid: 2... nro_pagina: 1
+[INFO] 02:09:12:115 SWAMP/(15469:15469): Servidor listo pa recibir al cliente
+[INFO] 02:09:22:680 SWAMP/(15469:15469): Se conecto un cliente!
+[INFO] 02:09:22:680 SWAMP/(15469:15469): entro a trabajemos con el cliente
+
+[INFO] 02:09:22:680 SWAMP/(15469:15469): tipo asignacion: DINAMICA
+[INFO] 02:09:29:526 SWAMP/(15469:15469): Me llegaron los siguientes valores:
+
+[INFO] 02:09:29:527 SWAMP/(15469:15469): pid: 2... nro_pagina: 1
+[INFO] 02:09:54:827 SWAMP/(15545:15545): Servidor listo pa recibir al cliente
+[INFO] 02:10:37:884 SWAMP/(15545:15545): Se conecto un cliente!
+[INFO] 02:10:37:884 SWAMP/(15545:15545): entro a trabajemos con el cliente
+
+[INFO] 02:10:37:884 SWAMP/(15545:15545): tipo asignacion: DINAMICA
+[INFO] 02:10:47:680 SWAMP/(15545:15545): Me llegaron los siguientes valores:
+
+[INFO] 02:10:47:680 SWAMP/(15545:15545): pid: 2... nro_pagina: 1
+[INFO] 02:14:06:910 SWAMP/(15657:15657): Servidor listo pa recibir al cliente
+[INFO] 02:14:22:850 SWAMP/(15657:15657): Se conecto un cliente!
+[INFO] 02:14:22:850 SWAMP/(15657:15657): entro a trabajemos con el cliente
+
+[INFO] 02:14:22:850 SWAMP/(15657:15657): tipo asignacion: DINAMICA
+[INFO] 02:14:49:382 SWAMP/(15657:15657): Me llegaron los siguientes valores:
+
+[INFO] 02:14:49:382 SWAMP/(15657:15657): pid: 2... nro_pagina: 1
+[INFO] 02:24:33:551 SWAMP/(15903:15903): Servidor listo pa recibir al cliente
+[INFO] 02:24:43:048 SWAMP/(15903:15903): Se conecto un cliente!
+[INFO] 02:24:43:049 SWAMP/(15903:15903): entro a trabajemos con el cliente
+
+[INFO] 02:24:43:049 SWAMP/(15903:15903): tipo asignacion: DINAMICA
+[INFO] 02:24:49:890 SWAMP/(15903:15903): Me llegaron los siguientes valores:
+
+[INFO] 02:30:18:102 SWAMP/(16118:16118): Servidor listo pa recibir al cliente
+[INFO] 02:30:31:908 SWAMP/(16118:16118): Se conecto un cliente!
+[INFO] 02:30:31:908 SWAMP/(16118:16118): entro a trabajemos con el cliente
+
+[INFO] 02:30:31:908 SWAMP/(16118:16118): tipo asignacion: DINAMICA
+[INFO] 02:30:38:751 SWAMP/(16118:16118): Me llegaron los siguientes valores:
+
+[INFO] 02:30:38:751 SWAMP/(16118:16118): pid: 2... nro_pagina: 1
+[INFO] 02:33:54:375 SWAMP/(16237:16237): Servidor listo pa recibir al cliente
+[INFO] 02:34:03:268 SWAMP/(16237:16237): Se conecto un cliente!
+[INFO] 02:34:03:268 SWAMP/(16237:16237): entro a trabajemos con el cliente
+
+[INFO] 02:34:03:268 SWAMP/(16237:16237): tipo asignacion: DINAMICA
+[INFO] 02:34:10:108 SWAMP/(16237:16237): Me llegaron los siguientes valores:
+
+[INFO] 02:34:10:108 SWAMP/(16237:16237): pid: 2... nro_pagina: 1
+[INFO] 02:36:45:302 SWAMP/(16333:16333): Servidor listo pa recibir al cliente
+[INFO] 02:37:00:146 SWAMP/(16333:16333): Se conecto un cliente!
+[INFO] 02:37:00:146 SWAMP/(16333:16333): entro a trabajemos con el cliente
+
+[INFO] 02:37:00:146 SWAMP/(16333:16333): tipo asignacion: DINAMICA
+[INFO] 02:37:06:984 SWAMP/(16333:16333): Me llegaron los siguientes valores:
+
+[INFO] 02:37:06:984 SWAMP/(16333:16333): pid: 2... nro_pagina: 1
+[INFO] 02:39:23:461 SWAMP/(16513:16513): Servidor listo pa recibir al cliente
+[INFO] 02:39:32:779 SWAMP/(16513:16513): Se conecto un cliente!
+[INFO] 02:39:32:779 SWAMP/(16513:16513): entro a trabajemos con el cliente
+
+[INFO] 02:39:32:779 SWAMP/(16513:16513): tipo asignacion: DINAMICA
+[INFO] 02:39:39:618 SWAMP/(16513:16513): Me llegaron los siguientes valores:
+
+[INFO] 02:39:39:618 SWAMP/(16513:16513): pid: 2... nro_pagina: 1
+[INFO] 02:40:25:080 SWAMP/(16582:16582): Servidor listo pa recibir al cliente
+[INFO] 02:40:29:093 SWAMP/(16582:16582): Se conecto un cliente!
+[INFO] 02:40:29:094 SWAMP/(16582:16582): entro a trabajemos con el cliente
+
+[INFO] 02:40:29:095 SWAMP/(16582:16582): tipo asignacion: DINAMICA
+[INFO] 02:40:35:935 SWAMP/(16582:16582): Me llegaron los siguientes valores:
+
+[INFO] 02:40:35:935 SWAMP/(16582:16582): pid: 2... nro_pagina: 1
+[INFO] 02:41:33:937 SWAMP/(16640:16640): Servidor listo pa recibir al cliente
+[INFO] 02:41:38:911 SWAMP/(16640:16640): Se conecto un cliente!
+[INFO] 02:41:38:911 SWAMP/(16640:16640): entro a trabajemos con el cliente
+
+[INFO] 02:41:38:911 SWAMP/(16640:16640): tipo asignacion: DINAMICA
+[INFO] 02:41:45:757 SWAMP/(16640:16640): Me llegaron los siguientes valores:
+
+[INFO] 02:41:45:758 SWAMP/(16640:16640): pid: 2... nro_pagina: 1
+[INFO] 02:42:31:967 SWAMP/(16699:16699): Servidor listo pa recibir al cliente
+[INFO] 02:42:43:165 SWAMP/(16699:16699): Se conecto un cliente!
+[INFO] 02:42:43:165 SWAMP/(16699:16699): entro a trabajemos con el cliente
+
+[INFO] 02:42:43:165 SWAMP/(16699:16699): tipo asignacion: DINAMICA
+[INFO] 02:42:50:006 SWAMP/(16699:16699): Me llegaron los siguientes valores:
+
+[INFO] 02:42:50:006 SWAMP/(16699:16699): pid: 2... nro_pagina: 1
+[INFO] 02:44:11:292 SWAMP/(16783:16783): Servidor listo pa recibir al cliente
+[INFO] 02:44:18:848 SWAMP/(16783:16783): Se conecto un cliente!
+[INFO] 02:44:18:849 SWAMP/(16783:16783): entro a trabajemos con el cliente
+
+[INFO] 02:44:18:849 SWAMP/(16783:16783): tipo asignacion: DINAMICA
+[INFO] 02:44:25:689 SWAMP/(16783:16783): Me llegaron los siguientes valores:
+
+[INFO] 02:44:25:689 SWAMP/(16783:16783): pid: 2... nro_pagina: 1
+[INFO] 02:44:54:666 SWAMP/(16839:16839): Servidor listo pa recibir al cliente
+[INFO] 02:45:03:800 SWAMP/(16839:16839): Se conecto un cliente!
+[INFO] 02:45:03:801 SWAMP/(16839:16839): entro a trabajemos con el cliente
+
+[INFO] 02:45:03:801 SWAMP/(16839:16839): tipo asignacion: DINAMICA
+[INFO] 02:45:10:638 SWAMP/(16839:16839): Me llegaron los siguientes valores:
+
+[INFO] 02:45:10:639 SWAMP/(16839:16839): pid: 2... nro_pagina: 1
+[INFO] 02:45:30:127 SWAMP/(16906:16906): Servidor listo pa recibir al cliente
+[INFO] 02:45:33:780 SWAMP/(16906:16906): Se conecto un cliente!
+[INFO] 02:45:33:781 SWAMP/(16906:16906): entro a trabajemos con el cliente
+
+[INFO] 02:45:33:781 SWAMP/(16906:16906): tipo asignacion: DINAMICA
+[INFO] 02:45:40:626 SWAMP/(16906:16906): Me llegaron los siguientes valores:
+
+[INFO] 02:45:40:627 SWAMP/(16906:16906): pid: 2... nro_pagina: 1
+[INFO] 02:46:01:299 SWAMP/(16958:16958): Servidor listo pa recibir al cliente
+[INFO] 02:46:08:590 SWAMP/(16958:16958): Se conecto un cliente!
+[INFO] 02:46:08:590 SWAMP/(16958:16958): entro a trabajemos con el cliente
+
+[INFO] 02:46:08:590 SWAMP/(16958:16958): tipo asignacion: DINAMICA
+[INFO] 02:46:15:436 SWAMP/(16958:16958): Me llegaron los siguientes valores:
+
+[INFO] 02:46:15:437 SWAMP/(16958:16958): pid: 2... nro_pagina: 1
+[INFO] 02:48:42:786 SWAMP/(17204:17204): Servidor listo pa recibir al cliente
+[INFO] 02:48:56:773 SWAMP/(17204:17204): Se conecto un cliente!
+[INFO] 02:48:56:773 SWAMP/(17204:17204): entro a trabajemos con el cliente
+
+[INFO] 02:48:56:773 SWAMP/(17204:17204): tipo asignacion: DINAMICA
+[INFO] 02:49:03:599 SWAMP/(17204:17204): Me llegaron los siguientes valores:
+
+[INFO] 02:49:53:412 SWAMP/(17204:17204): pid: 2... nro_pagina: 1
+[INFO] 02:50:56:925 SWAMP/(17267:17267): Servidor listo pa recibir al cliente
+[INFO] 02:51:11:153 SWAMP/(17267:17267): Se conecto un cliente!
+[INFO] 02:51:11:153 SWAMP/(17267:17267): entro a trabajemos con el cliente
+
+[INFO] 02:51:11:153 SWAMP/(17267:17267): tipo asignacion: DINAMICA
+[INFO] 02:51:17:983 SWAMP/(17267:17267): Me llegaron los siguientes valores:
+
+[INFO] 02:51:24:784 SWAMP/(17267:17267): pid: 2... nro_pagina: 1
+[INFO] 02:54:33:498 SWAMP/(17389:17389): Servidor listo pa recibir al cliente
+[INFO] 02:54:58:218 SWAMP/(17389:17389): Se conecto un cliente!
+[INFO] 02:54:58:218 SWAMP/(17389:17389): entro a trabajemos con el cliente
+
+[INFO] 02:54:58:218 SWAMP/(17389:17389): tipo asignacion: DINAMICA
+[INFO] 02:55:05:052 SWAMP/(17389:17389): Me llegaron los siguientes valores:
+
+[INFO] 02:55:17:398 SWAMP/(17389:17389): pid: 2... nro_pagina: 1
+[INFO] 02:56:52:545 SWAMP/(17491:17491): Servidor listo pa recibir al cliente
+[INFO] 02:56:59:994 SWAMP/(17491:17491): Se conecto un cliente!
+[INFO] 02:56:59:994 SWAMP/(17491:17491): entro a trabajemos con el cliente
+
+[INFO] 02:56:59:994 SWAMP/(17491:17491): tipo asignacion: DINAMICA
+[INFO] 02:57:06:825 SWAMP/(17491:17491): Me llegaron los siguientes valores:
+
+[INFO] 02:57:06:825 SWAMP/(17491:17491): pid: 2... nro_pagina: 1
+[INFO] 02:57:07:628 SWAMP/(17491:17491): Me llegaron los siguientes valores:
+
+[INFO] 02:57:07:628 SWAMP/(17491:17491): pid: 2... nro_pagina: 2
+[INFO] 02:58:42:501 SWAMP/(17563:17563): No se pudo asociar el socket a un puerto
+[INFO] 02:58:58:169 SWAMP/(17578:17578): Servidor listo pa recibir al cliente
+[INFO] 02:59:03:004 SWAMP/(17578:17578): Se conecto un cliente!
+[INFO] 02:59:03:005 SWAMP/(17578:17578): entro a trabajemos con el cliente
+
+[INFO] 02:59:03:005 SWAMP/(17578:17578): tipo asignacion: DINAMICA
+[INFO] 02:59:09:836 SWAMP/(17578:17578): Me llegaron los siguientes valores:
+
+[INFO] 02:59:09:836 SWAMP/(17578:17578): pid: 2... nro_pagina: 1
+[INFO] 02:59:10:639 SWAMP/(17578:17578): Me llegaron los siguientes valores:
+
+[INFO] 02:59:10:639 SWAMP/(17578:17578): pid: 2... nro_pagina: 2
+[INFO] 03:05:17:325 SWAMP/(17812:17812): No se pudo asociar el socket a un puerto
+[INFO] 03:05:32:609 SWAMP/(17819:17819): Servidor listo pa recibir al cliente
+[INFO] 03:08:07:243 SWAMP/(18000:18000): Servidor listo pa recibir al cliente
+[INFO] 03:08:29:383 SWAMP/(18000:18000): Se conecto un cliente!
+[INFO] 03:08:29:383 SWAMP/(18000:18000): entro a trabajemos con el cliente
+
+[INFO] 03:08:29:383 SWAMP/(18000:18000): tipo asignacion: DINAMICA
+[INFO] 03:08:43:679 SWAMP/(18000:18000): Me llegaron los siguientes valores:
+
+[INFO] 03:08:43:679 SWAMP/(18000:18000): pid: 2... nro_pagina: 1
+[INFO] 03:08:46:664 SWAMP/(18000:18000): Me llegaron los siguientes valores:
+
+[INFO] 03:08:46:665 SWAMP/(18000:18000): pid: 2... nro_pagina: 2
+[INFO] 03:10:45:387 SWAMP/(18090:18090): Servidor listo pa recibir al cliente
+[INFO] 03:10:58:765 SWAMP/(18090:18090): Se conecto un cliente!
+[INFO] 03:10:58:765 SWAMP/(18090:18090): entro a trabajemos con el cliente
+
+[INFO] 03:10:58:765 SWAMP/(18090:18090): tipo asignacion: DINAMICA
+[INFO] 03:15:02:591 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:15:02:591 SWAMP/(18090:18090): pid: 2... nro_pagina: 1
+[INFO] 03:15:25:240 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:15:25:241 SWAMP/(18090:18090): pid: 2... nro_pagina: 2
+[INFO] 03:17:52:372 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:17:52:372 SWAMP/(18090:18090): pid: 2... nro_pagina: 3
+[INFO] 03:18:52:397 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:18:52:398 SWAMP/(18090:18090): pid: 3... nro_pagina: 1
+[INFO] 03:19:12:895 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:19:12:895 SWAMP/(18090:18090): pid: 1... nro_pagina: 0
+[INFO] 03:19:30:481 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:19:30:481 SWAMP/(18090:18090): pid: 1... nro_pagina: 1
+[INFO] 03:20:02:074 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:20:02:075 SWAMP/(18090:18090): pid: 1... nro_pagina: 2
+[INFO] 03:20:07:690 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:20:07:691 SWAMP/(18090:18090): pid: 1... nro_pagina: 3
+[INFO] 03:20:40:184 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:20:40:185 SWAMP/(18090:18090): pid: 1... nro_pagina: 4
+[INFO] 03:20:44:830 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:20:44:830 SWAMP/(18090:18090): pid: 1... nro_pagina: 5
+[INFO] 03:20:57:862 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:20:57:862 SWAMP/(18090:18090): pid: 1... nro_pagina: 6
+[INFO] 03:20:59:988 SWAMP/(18090:18090): Me llegaron los siguientes valores:
+
+[INFO] 03:20:59:988 SWAMP/(18090:18090): pid: 1... nro_pagina: 7
+[INFO] 03:22:47:906 SWAMP/(18090:18090): recibi codigo de operacion mensaje
+[INFO] 03:27:14:758 SWAMP/(18590:18590): Servidor listo pa recibir al cliente
+[INFO] 03:27:32:401 SWAMP/(18590:18590): Se conecto un cliente!
+[INFO] 03:27:32:401 SWAMP/(18590:18590): entro a trabajemos con el cliente
+
+[INFO] 03:27:32:401 SWAMP/(18590:18590): tipo asignacion: DINAMICA
+[INFO] 03:27:41:915 SWAMP/(18590:18590): Me llegaron los siguientes valores:
+
+[INFO] 03:27:41:915 SWAMP/(18590:18590): pid: 2... nro_pagina: 1
+[INFO] 03:27:46:965 SWAMP/(18590:18590): Me llegaron los siguientes valores:
+
+[INFO] 03:27:46:965 SWAMP/(18590:18590): pid: 2... nro_pagina: 2
+[INFO] 03:28:10:073 SWAMP/(18590:18590): Me llegaron los siguientes valores:
+
+[INFO] 03:28:10:073 SWAMP/(18590:18590): pid: 2... nro_pagina: 3
+[INFO] 03:28:18:871 SWAMP/(18590:18590): Me llegaron los siguientes valores:
+
+[INFO] 03:28:18:871 SWAMP/(18590:18590): pid: 3... nro_pagina: 1
+[INFO] 03:41:16:374 SWAMP/(19297:19297): Servidor listo pa recibir al cliente
+[INFO] 03:41:25:575 SWAMP/(19297:19297): Se conecto un cliente!
+[INFO] 03:41:25:575 SWAMP/(19297:19297): entro a trabajemos con el cliente
+
+[INFO] 03:41:25:575 SWAMP/(19297:19297): tipo asignacion: DINAMICA
+[INFO] 03:41:32:423 SWAMP/(19297:19297): Me llegaron los siguientes valores:
+
+[INFO] 03:41:32:424 SWAMP/(19297:19297): pid: 2... nro_pagina: 1
+[INFO] 03:41:33:228 SWAMP/(19297:19297): Me llegaron los siguientes valores:
+
+[INFO] 03:41:33:228 SWAMP/(19297:19297): pid: 2... nro_pagina: 2
+[INFO] 03:45:15:026 SWAMP/(19404:19404): Servidor listo pa recibir al cliente
+[INFO] 03:45:23:087 SWAMP/(19404:19404): Se conecto un cliente!
+[INFO] 03:45:23:087 SWAMP/(19404:19404): entro a trabajemos con el cliente
+
+[INFO] 03:45:23:087 SWAMP/(19404:19404): tipo asignacion: DINAMICA
+[INFO] 03:45:29:935 SWAMP/(19404:19404): Me llegaron los siguientes valores:
+
+[INFO] 03:45:29:935 SWAMP/(19404:19404): pid: 2... nro_pagina: 1
+[INFO] 03:45:30:740 SWAMP/(19404:19404): Me llegaron los siguientes valores:
+
+[INFO] 03:45:30:740 SWAMP/(19404:19404): pid: 2... nro_pagina: 2
+[INFO] 03:49:40:642 SWAMP/(19550:19550): No se pudo asociar el socket a un puerto
+[INFO] 03:49:54:348 SWAMP/(19556:19556): Servidor listo pa recibir al cliente
+[INFO] 03:50:01:586 SWAMP/(19556:19556): Se conecto un cliente!
+[INFO] 03:50:01:586 SWAMP/(19556:19556): entro a trabajemos con el cliente
+
+[INFO] 03:50:01:589 SWAMP/(19556:19556): tipo asignacion: DINAMICA
+[INFO] 03:50:08:436 SWAMP/(19556:19556): Me llegaron los siguientes valores:
+
+[INFO] 03:50:08:437 SWAMP/(19556:19556): pid: 2... nro_pagina: 1
+[INFO] 03:50:09:240 SWAMP/(19556:19556): Me llegaron los siguientes valores:
+
+[INFO] 03:50:09:240 SWAMP/(19556:19556): pid: 2... nro_pagina: 2
+[INFO] 03:57:49:883 SWAMP/(19749:19749): No se pudo asociar el socket a un puerto
+[INFO] 03:57:53:115 SWAMP/(19760:19760): Servidor listo pa recibir al cliente
+[INFO] 03:57:59:983 SWAMP/(19760:19760): Se conecto un cliente!
+[INFO] 03:57:59:984 SWAMP/(19760:19760): entro a trabajemos con el cliente
+
+[INFO] 03:57:59:984 SWAMP/(19760:19760): tipo asignacion: DINAMICA
+[INFO] 03:58:06:822 SWAMP/(19760:19760): Me llegaron los siguientes valores:
+
+[INFO] 03:58:06:822 SWAMP/(19760:19760): pid: 2... nro_pagina: 1
+[INFO] 03:58:07:628 SWAMP/(19760:19760): Me llegaron los siguientes valores:
+
+[INFO] 03:58:07:629 SWAMP/(19760:19760): pid: 2... nro_pagina: 2
+[INFO] 04:01:15:300 SWAMP/(19897:19897): Servidor listo pa recibir al cliente
+[INFO] 04:01:24:642 SWAMP/(19897:19897): Se conecto un cliente!
+[INFO] 04:01:24:642 SWAMP/(19897:19897): entro a trabajemos con el cliente
+
+[INFO] 04:01:24:642 SWAMP/(19897:19897): tipo asignacion: DINAMICA
+[INFO] 04:01:31:490 SWAMP/(19897:19897): Me llegaron los siguientes valores:
+
+[INFO] 04:01:31:490 SWAMP/(19897:19897): pid: 2... nro_pagina: 1
+[INFO] 04:01:32:295 SWAMP/(19897:19897): Me llegaron los siguientes valores:
+
+[INFO] 04:01:32:296 SWAMP/(19897:19897): pid: 2... nro_pagina: 2
+[INFO] 04:02:19:590 SWAMP/(19944:19944): No se pudo asociar el socket a un puerto
+[INFO] 04:02:23:723 SWAMP/(19950:19950): Servidor listo pa recibir al cliente
+[INFO] 04:02:37:309 SWAMP/(19950:19950): Se conecto un cliente!
+[INFO] 04:02:37:309 SWAMP/(19950:19950): entro a trabajemos con el cliente
+
+[INFO] 04:02:37:310 SWAMP/(19950:19950): tipo asignacion: DINAMICA
+[INFO] 04:02:44:147 SWAMP/(19950:19950): Me llegaron los siguientes valores:
+
+[INFO] 04:02:44:147 SWAMP/(19950:19950): pid: 2... nro_pagina: 1
+[INFO] 04:02:44:952 SWAMP/(19950:19950): Me llegaron los siguientes valores:
+
+[INFO] 04:02:44:952 SWAMP/(19950:19950): pid: 2... nro_pagina: 2
+[INFO] 04:03:02:323 SWAMP/(19999:19999): Servidor listo pa recibir al cliente
+[INFO] 04:03:11:129 SWAMP/(19999:19999): Se conecto un cliente!
+[INFO] 04:03:11:129 SWAMP/(19999:19999): entro a trabajemos con el cliente
+
+[INFO] 04:03:11:130 SWAMP/(19999:19999): tipo asignacion: DINAMICA
+[INFO] 04:03:17:964 SWAMP/(19999:19999): Me llegaron los siguientes valores:
+
+[INFO] 04:03:17:965 SWAMP/(19999:19999): pid: 2... nro_pagina: 1
+[INFO] 04:03:18:466 SWAMP/(19999:19999): recibi codigo de operacion mensaje
+[INFO] 04:14:39:066 SWAMP/(20286:20286): Servidor listo pa recibir al cliente
+[INFO] 04:14:46:912 SWAMP/(20286:20286): Se conecto un cliente!
+[INFO] 04:14:46:912 SWAMP/(20286:20286): entro a trabajemos con el cliente
+
+[INFO] 04:14:46:912 SWAMP/(20286:20286): tipo asignacion: DINAMICA
+[INFO] 04:14:53:776 SWAMP/(20286:20286): Me llegaron los siguientes valores:
+
+[INFO] 04:14:53:777 SWAMP/(20286:20286): pid: 2... nro_pagina: 1
+[INFO] 04:14:54:277 SWAMP/(20286:20286): recibi codigo de operacion mensaje
+[INFO] 04:32:11:760 SWAMP/(20504:20504): Servidor listo pa recibir al cliente
+[INFO] 04:32:18:019 SWAMP/(20504:20504): Se conecto un cliente!
+[INFO] 04:32:18:019 SWAMP/(20504:20504): entro a trabajemos con el cliente
+
+[INFO] 04:32:18:020 SWAMP/(20504:20504): tipo asignacion: DINAMICA
+[INFO] 04:32:24:863 SWAMP/(20504:20504): Me llegaron los siguientes valores:
+
+[INFO] 04:32:24:863 SWAMP/(20504:20504): pid: 2... nro_pagina: 1
+[WARNING] 04:32:25:363 SWAMP/(20504:20504): cod_op = -1. No quieras meter la pata
+[INFO] 05:50:45:097 SWAMP/(23272:23272): Servidor listo pa recibir al cliente
+[INFO] 05:51:14:639 SWAMP/(23298:23298): Servidor listo pa recibir al cliente
+[INFO] 05:56:00:942 SWAMP/(23298:23298): Se conecto un cliente!
+[INFO] 05:56:00:942 SWAMP/(23298:23298): entro a trabajemos con el cliente
+
+[INFO] 05:56:00:942 SWAMP/(23298:23298): tipo asignacion: DINAMICA
+[INFO] 06:02:20:889 SWAMP/(23799:23799): Servidor listo pa recibir al cliente
+[INFO] 06:02:42:556 SWAMP/(23799:23799): Se conecto un cliente!
+[INFO] 06:02:42:556 SWAMP/(23799:23799): entro a trabajemos con el cliente
+
+[INFO] 06:02:42:556 SWAMP/(23799:23799): tipo asignacion: DINAMICA
+[INFO] 06:03:53:379 SWAMP/(23799:23799): Me llegaron los siguientes valores:
+
+[INFO] 06:03:53:379 SWAMP/(23799:23799): pid: 2... nro_pagina: 1
+[WARNING] 06:04:29:832 SWAMP/(23799:23799): cod_op = -1. No quieras meter la pata
+[INFO] 06:09:22:901 SWAMP/(24055:24055): Servidor listo pa recibir al cliente
+[INFO] 06:09:30:802 SWAMP/(24055:24055): Se conecto un cliente!
+[INFO] 06:09:30:802 SWAMP/(24055:24055): entro a trabajemos con el cliente
+
+[INFO] 06:09:30:802 SWAMP/(24055:24055): tipo asignacion: DINAMICA
+[INFO] 06:09:37:644 SWAMP/(24055:24055): Me llegaron los siguientes valores:
+
+[INFO] 06:09:37:645 SWAMP/(24055:24055): pid: 2... nro_pagina: 1
+[INFO] 06:56:43:951 SWAMP/(25043:25043): Servidor listo pa recibir al cliente
+[INFO] 06:57:04:411 SWAMP/(25043:25043): Se conecto un cliente!
+[INFO] 06:57:04:411 SWAMP/(25043:25043): entro a trabajemos con el cliente
+
+[INFO] 06:57:04:411 SWAMP/(25043:25043): tipo asignacion: DINAMICA
+[INFO] 06:57:16:395 SWAMP/(25043:25043): Me llegaron los siguientes valores:
+
+[INFO] 06:57:16:396 SWAMP/(25043:25043): pid: 2... nro_pagina: 1
+[INFO] 06:58:20:256 SWAMP/(25043:25043): recibi codigo de operacion mensaje
+[INFO] 06:58:50:087 SWAMP/(25165:25165): No se pudo asociar el socket a un puerto
+[INFO] 06:58:57:045 SWAMP/(25171:25171): No se pudo asociar el socket a un puerto
+[INFO] 06:58:58:924 SWAMP/(25173:25173): No se pudo asociar el socket a un puerto
+[INFO] 06:58:59:444 SWAMP/(25175:25175): No se pudo asociar el socket a un puerto
+[INFO] 06:58:59:723 SWAMP/(25177:25177): No se pudo asociar el socket a un puerto
+[INFO] 06:58:59:964 SWAMP/(25178:25178): No se pudo asociar el socket a un puerto
+[INFO] 06:59:00:188 SWAMP/(25179:25179): No se pudo asociar el socket a un puerto
+[INFO] 06:59:17:082 SWAMP/(25180:25180): No se pudo asociar el socket a un puerto
+[INFO] 06:59:43:833 SWAMP/(25189:25189): Servidor listo pa recibir al cliente
+[INFO] 07:00:10:093 SWAMP/(25189:25189): Se conecto un cliente!
+[INFO] 07:00:10:093 SWAMP/(25189:25189): entro a trabajemos con el cliente
+
+[INFO] 07:00:10:094 SWAMP/(25189:25189): tipo asignacion: DINAMICA
+[INFO] 07:00:49:017 SWAMP/(25189:25189): Me llegaron los siguientes valores:
+
+[INFO] 07:00:49:017 SWAMP/(25189:25189): pid: 2... nro_pagina: 1
+[INFO] 07:00:59:834 SWAMP/(25189:25189): recibi codigo de operacion mensaje
+[INFO] 07:17:06:910 SWAMP/(25637:25637): Servidor listo pa recibir al cliente
+[INFO] 07:17:14:997 SWAMP/(25637:25637): Se conecto un cliente!
+[INFO] 07:17:14:997 SWAMP/(25637:25637): entro a trabajemos con el cliente
+
+[INFO] 07:17:14:997 SWAMP/(25637:25637): tipo asignacion: DINAMICA
+[INFO] 07:17:21:838 SWAMP/(25637:25637): Me llegaron los siguientes valores:
+
+[INFO] 07:17:21:838 SWAMP/(25637:25637): pid: 2... nro_pagina: 1
+[INFO] 07:17:22:338 SWAMP/(25637:25637): recibi codigo de operacion mensaje
+[INFO] 07:19:39:257 SWAMP/(25784:25784): Servidor listo pa recibir al cliente
+[INFO] 07:21:07:877 SWAMP/(25934:25934): Servidor listo pa recibir al cliente
+[INFO] 07:21:13:940 SWAMP/(25934:25934): Se conecto un cliente!
+[INFO] 07:21:13:940 SWAMP/(25934:25934): entro a trabajemos con el cliente
+
+[INFO] 07:21:13:940 SWAMP/(25934:25934): tipo asignacion: DINAMICA
+[INFO] 07:21:20:772 SWAMP/(25934:25934): Me llegaron los siguientes valores:
+
+[INFO] 07:22:22:599 SWAMP/(25934:25934): pid: 2... nro_pagina: 1
+[INFO] 07:22:29:657 SWAMP/(25934:25934): recibi codigo de operacion mensaje
+[INFO] 07:24:17:117 SWAMP/(26086:26086): No se pudo asociar el socket a un puerto
+[INFO] 07:24:47:307 SWAMP/(26121:26121): No se pudo asociar el socket a un puerto
+[INFO] 07:25:16:060 SWAMP/(26157:26157): Servidor listo pa recibir al cliente
+[INFO] 07:25:25:817 SWAMP/(26157:26157): Se conecto un cliente!
+[INFO] 07:25:25:817 SWAMP/(26157:26157): entro a trabajemos con el cliente
+
+[INFO] 07:25:25:817 SWAMP/(26157:26157): tipo asignacion: DINAMICA
+[INFO] 07:25:32:650 SWAMP/(26157:26157): Me llegaron los siguientes valores:
+
+[INFO] 07:25:43:199 SWAMP/(26157:26157): pid: 2... nro_pagina: 1
+[INFO] 07:25:46:072 SWAMP/(26157:26157): recibi codigo de operacion mensaje
+[WARNING] 07:28:23:390 SWAMP/(26157:26157): cod_op = -1. No quieras meter la pata
+[INFO] 07:36:48:800 SWAMP/(26735:26735): Servidor listo pa recibir al cliente
+[INFO] 07:36:56:752 SWAMP/(26735:26735): Se conecto un cliente!
+[INFO] 07:36:56:752 SWAMP/(26735:26735): entro a trabajemos con el cliente
+
+[INFO] 07:36:56:753 SWAMP/(26735:26735): tipo asignacion: DINAMICA
+[INFO] 07:37:03:577 SWAMP/(26735:26735): Me llegaron los siguientes valores:
+
+[INFO] 07:37:03:577 SWAMP/(26735:26735): pid: 2... nro_pagina: 1
+[INFO] 07:37:04:078 SWAMP/(26735:26735): recibi codigo de operacion mensaje 
+
+[INFO] 07:37:04:078 SWAMP/(26735:26735): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:37:04:078 SWAMP/(26735:26735): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:37:04:078 SWAMP/(26735:26735): Envio respuesta. 
+
+[WARNING] 07:37:04:578 SWAMP/(26735:26735): cod_op = -1. No quieras meter la pata
+[INFO] 07:40:43:357 SWAMP/(26990:26990): No se pudo asociar el socket a un puerto
+[INFO] 07:41:04:981 SWAMP/(26997:26997): Servidor listo pa recibir al cliente
+[INFO] 07:41:08:536 SWAMP/(26997:26997): Se conecto un cliente!
+[INFO] 07:41:08:536 SWAMP/(26997:26997): entro a trabajemos con el cliente
+
+[INFO] 07:41:08:536 SWAMP/(26997:26997): tipo asignacion: DINAMICA
+[INFO] 07:41:15:363 SWAMP/(26997:26997): Me llegaron los siguientes valores:
+
+[INFO] 07:41:15:363 SWAMP/(26997:26997): pid: 2... nro_pagina: 1
+[INFO] 07:41:15:863 SWAMP/(26997:26997): recibi codigo de operacion mensaje 
+
+[INFO] 07:41:15:863 SWAMP/(26997:26997): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:41:15:863 SWAMP/(26997:26997): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:41:15:863 SWAMP/(26997:26997): Envio respuesta. 
+
+[WARNING] 07:41:16:364 SWAMP/(26997:26997): cod_op = -1. No quieras meter la pata
+[INFO] 07:45:49:207 SWAMP/(27110:27110): Servidor listo pa recibir al cliente
+[INFO] 07:45:51:559 SWAMP/(27110:27110): Se conecto un cliente!
+[INFO] 07:45:51:559 SWAMP/(27110:27110): entro a trabajemos con el cliente
+
+[INFO] 07:45:51:559 SWAMP/(27110:27110): tipo asignacion: DINAMICA
+[INFO] 07:45:58:387 SWAMP/(27110:27110): Me llegaron los siguientes valores:
+
+[INFO] 07:45:58:387 SWAMP/(27110:27110): pid: 2... nro_pagina: 1
+[INFO] 07:45:58:887 SWAMP/(27110:27110): recibi codigo de operacion mensaje 
+
+[INFO] 07:45:58:887 SWAMP/(27110:27110): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:45:58:887 SWAMP/(27110:27110): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:45:58:887 SWAMP/(27110:27110): Envio respuesta. 
+
+[WARNING] 07:45:59:387 SWAMP/(27110:27110): cod_op = -1. No quieras meter la pata
+[INFO] 07:47:25:972 SWAMP/(27152:27152): Servidor listo pa recibir al cliente
+[INFO] 07:47:29:204 SWAMP/(27152:27152): Se conecto un cliente!
+[INFO] 07:47:29:204 SWAMP/(27152:27152): entro a trabajemos con el cliente
+
+[INFO] 07:47:29:204 SWAMP/(27152:27152): tipo asignacion: DINAMICA
+[INFO] 07:47:36:031 SWAMP/(27152:27152): Me llegaron los siguientes valores:
+
+[INFO] 07:47:36:031 SWAMP/(27152:27152): pid: 2... nro_pagina: 1
+[INFO] 07:47:36:531 SWAMP/(27152:27152): recibi codigo de operacion mensaje 
+
+[INFO] 07:47:36:531 SWAMP/(27152:27152): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:47:36:531 SWAMP/(27152:27152): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:47:36:531 SWAMP/(27152:27152): Envio respuesta. 
+
+[WARNING] 07:47:37:032 SWAMP/(27152:27152): cod_op = -1. No quieras meter la pata
+[INFO] 07:51:00:442 SWAMP/(27294:27294): Servidor listo pa recibir al cliente
+[INFO] 07:51:03:264 SWAMP/(27294:27294): Se conecto un cliente!
+[INFO] 07:51:03:264 SWAMP/(27294:27294): entro a trabajemos con el cliente
+
+[INFO] 07:51:03:264 SWAMP/(27294:27294): tipo asignacion: DINAMICA
+[INFO] 07:51:10:089 SWAMP/(27294:27294): Me llegaron los siguientes valores:
+
+[INFO] 07:51:10:089 SWAMP/(27294:27294): pid: 2... nro_pagina: 1
+[INFO] 07:51:10:590 SWAMP/(27294:27294): recibi codigo de operacion mensaje 
+
+[INFO] 07:51:10:590 SWAMP/(27294:27294): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:51:10:590 SWAMP/(27294:27294): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:51:10:590 SWAMP/(27294:27294): Envio respuesta. 
+
+[WARNING] 07:51:11:091 SWAMP/(27294:27294): cod_op = -1. No quieras meter la pata
+[INFO] 07:56:32:267 SWAMP/(27445:27445): Servidor listo pa recibir al cliente
+[INFO] 07:56:34:828 SWAMP/(27445:27445): Se conecto un cliente!
+[INFO] 07:56:34:828 SWAMP/(27445:27445): entro a trabajemos con el cliente
+
+[INFO] 07:56:34:828 SWAMP/(27445:27445): tipo asignacion: DINAMICA
+[INFO] 07:56:41:657 SWAMP/(27445:27445): Me llegaron los siguientes valores:
+
+[INFO] 07:56:41:657 SWAMP/(27445:27445): pid: 2... nro_pagina: 1
+[INFO] 07:56:42:157 SWAMP/(27445:27445): recibi codigo de operacion mensaje 
+
+[INFO] 07:56:42:157 SWAMP/(27445:27445): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:56:42:157 SWAMP/(27445:27445): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:56:42:157 SWAMP/(27445:27445): Envio respuesta. 
+
+[WARNING] 07:56:42:658 SWAMP/(27445:27445): cod_op = -1. No quieras meter la pata
+[INFO] 07:58:32:755 SWAMP/(27489:27489): Servidor listo pa recibir al cliente
+[INFO] 07:58:41:677 SWAMP/(27489:27489): Se conecto un cliente!
+[INFO] 07:58:41:677 SWAMP/(27489:27489): entro a trabajemos con el cliente
+
+[INFO] 07:58:41:681 SWAMP/(27489:27489): tipo asignacion: DINAMICA
+[INFO] 07:58:48:655 SWAMP/(27489:27489): Me llegaron los siguientes valores:
+
+[INFO] 07:58:48:655 SWAMP/(27489:27489): pid: 2... nro_pagina: 1
+[INFO] 07:58:49:155 SWAMP/(27489:27489): recibi codigo de operacion mensaje 
+
+[INFO] 07:58:49:155 SWAMP/(27489:27489): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 07:58:49:155 SWAMP/(27489:27489): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 07:58:49:155 SWAMP/(27489:27489): Envio respuesta. 
+
+[WARNING] 07:58:50:413 SWAMP/(27489:27489): cod_op = -1. No quieras meter la pata
+[INFO] 08:00:21:953 SWAMP/(27573:27573): Servidor listo pa recibir al cliente
+[INFO] 08:00:24:911 SWAMP/(27573:27573): Se conecto un cliente!
+[INFO] 08:00:24:911 SWAMP/(27573:27573): entro a trabajemos con el cliente
+
+[INFO] 08:00:24:915 SWAMP/(27573:27573): tipo asignacion: DINAMICA
+[INFO] 08:00:31:900 SWAMP/(27573:27573): Me llegaron los siguientes valores:
+
+[INFO] 08:00:31:900 SWAMP/(27573:27573): pid: 2... nro_pagina: 1
+[INFO] 08:00:32:400 SWAMP/(27573:27573): recibi codigo de operacion mensaje 
+
+[INFO] 08:00:32:400 SWAMP/(27573:27573): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:00:32:400 SWAMP/(27573:27573): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:00:32:400 SWAMP/(27573:27573): Envio respuesta. 
+
+[WARNING] 08:00:32:901 SWAMP/(27573:27573): cod_op = -1. No quieras meter la pata
+[INFO] 08:01:45:220 SWAMP/(27588:27588): Servidor listo pa recibir al cliente
+[INFO] 08:01:48:630 SWAMP/(27588:27588): Se conecto un cliente!
+[INFO] 08:01:48:630 SWAMP/(27588:27588): entro a trabajemos con el cliente
+
+[INFO] 08:01:48:635 SWAMP/(27588:27588): tipo asignacion: DINAMICA
+[INFO] 08:01:55:612 SWAMP/(27588:27588): Me llegaron los siguientes valores:
+
+[INFO] 08:01:55:612 SWAMP/(27588:27588): pid: 2... nro_pagina: 1
+[INFO] 08:01:56:113 SWAMP/(27588:27588): recibi codigo de operacion mensaje 
+
+[INFO] 08:01:56:113 SWAMP/(27588:27588): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:01:56:113 SWAMP/(27588:27588): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:01:56:113 SWAMP/(27588:27588): Envio respuesta. 
+
+[WARNING] 08:01:56:613 SWAMP/(27588:27588): cod_op = -1. No quieras meter la pata
+[INFO] 08:09:49:500 SWAMP/(28078:28078): Servidor listo pa recibir al cliente
+[INFO] 08:09:57:367 SWAMP/(28078:28078): Se conecto un cliente!
+[INFO] 08:09:57:367 SWAMP/(28078:28078): entro a trabajemos con el cliente
+
+[INFO] 08:09:57:368 SWAMP/(28078:28078): tipo asignacion: DINAMICA
+[INFO] 08:10:04:209 SWAMP/(28078:28078): Me llegaron los siguientes valores:
+
+[INFO] 08:10:04:209 SWAMP/(28078:28078): pid: 2... nro_pagina: 1
+[INFO] 08:10:04:711 SWAMP/(28078:28078): recibi codigo de operacion mensaje 
+
+[INFO] 08:10:04:711 SWAMP/(28078:28078): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:10:04:711 SWAMP/(28078:28078): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:10:04:711 SWAMP/(28078:28078): Envio respuesta. 
+
+[WARNING] 08:10:05:212 SWAMP/(28078:28078): cod_op = -1. No quieras meter la pata
+[INFO] 08:13:35:058 SWAMP/(28201:28201): Servidor listo pa recibir al cliente
+[INFO] 08:13:44:397 SWAMP/(28201:28201): Se conecto un cliente!
+[INFO] 08:13:44:397 SWAMP/(28201:28201): entro a trabajemos con el cliente
+
+[INFO] 08:13:44:398 SWAMP/(28201:28201): tipo asignacion: DINAMICA
+[INFO] 08:13:51:237 SWAMP/(28201:28201): Me llegaron los siguientes valores:
+
+[INFO] 08:13:51:237 SWAMP/(28201:28201): pid: 2... nro_pagina: 1
+[INFO] 08:13:51:738 SWAMP/(28201:28201): recibi codigo de operacion mensaje 
+
+[INFO] 08:13:51:738 SWAMP/(28201:28201): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:13:51:738 SWAMP/(28201:28201): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:13:51:739 SWAMP/(28201:28201): Envio respuesta. 
+
+[WARNING] 08:13:52:239 SWAMP/(28201:28201): cod_op = -1. No quieras meter la pata
+[INFO] 08:16:23:639 SWAMP/(28347:28347): Servidor listo pa recibir al cliente
+[INFO] 08:16:32:972 SWAMP/(28347:28347): Se conecto un cliente!
+[INFO] 08:16:32:972 SWAMP/(28347:28347): entro a trabajemos con el cliente
+
+[INFO] 08:16:32:972 SWAMP/(28347:28347): tipo asignacion: DINAMICA
+[INFO] 08:16:39:813 SWAMP/(28347:28347): Me llegaron los siguientes valores:
+
+[INFO] 08:16:39:813 SWAMP/(28347:28347): pid: 2... nro_pagina: 1
+[INFO] 08:16:40:314 SWAMP/(28347:28347): recibi codigo de operacion mensaje 
+
+[INFO] 08:16:40:314 SWAMP/(28347:28347): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:16:40:314 SWAMP/(28347:28347): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:16:40:314 SWAMP/(28347:28347): Envio respuesta. 
+
+[WARNING] 08:16:40:816 SWAMP/(28347:28347): cod_op = -1. No quieras meter la pata
+[INFO] 08:22:44:897 SWAMP/(28491:28491): Servidor listo pa recibir al cliente
+[INFO] 08:22:58:673 SWAMP/(28491:28491): Se conecto un cliente!
+[INFO] 08:22:58:673 SWAMP/(28491:28491): entro a trabajemos con el cliente
+
+[INFO] 08:22:58:673 SWAMP/(28491:28491): tipo asignacion: DINAMICA
+[INFO] 08:23:12:315 SWAMP/(28491:28491): Me llegaron los siguientes valores:
+
+[INFO] 08:23:12:316 SWAMP/(28491:28491): pid: 2... nro_pagina: 1
+[INFO] 08:24:20:045 SWAMP/(28491:28491): recibi codigo de operacion mensaje 
+
+[INFO] 08:24:20:046 SWAMP/(28491:28491): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:24:20:046 SWAMP/(28491:28491): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:24:20:046 SWAMP/(28491:28491): Envio respuesta. 
+
+[WARNING] 08:25:11:147 SWAMP/(28491:28491): cod_op = -1. No quieras meter la pata
+[INFO] 08:36:34:677 SWAMP/(28881:28881): Servidor listo pa recibir al cliente
+[INFO] 08:36:45:608 SWAMP/(28881:28881): Se conecto un cliente!
+[INFO] 08:36:45:608 SWAMP/(28881:28881): entro a trabajemos con el cliente
+
+[INFO] 08:36:45:609 SWAMP/(28881:28881): tipo asignacion: DINAMICA
+[INFO] 08:36:52:454 SWAMP/(28881:28881): Me llegaron los siguientes valores:
+
+[INFO] 08:36:52:454 SWAMP/(28881:28881): pid: 2... nro_pagina: 1
+[INFO] 08:36:52:955 SWAMP/(28881:28881): recibi codigo de operacion mensaje 
+
+[INFO] 08:36:52:955 SWAMP/(28881:28881): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:36:52:955 SWAMP/(28881:28881): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:36:52:955 SWAMP/(28881:28881): Envio respuesta. 
+
+[INFO] 08:37:42:798 SWAMP/(28944:28944): Servidor listo pa recibir al cliente
+[INFO] 08:37:49:634 SWAMP/(28944:28944): Se conecto un cliente!
+[INFO] 08:37:49:634 SWAMP/(28944:28944): entro a trabajemos con el cliente
+
+[INFO] 08:37:49:634 SWAMP/(28944:28944): tipo asignacion: DINAMICA
+[INFO] 08:37:56:472 SWAMP/(28944:28944): Me llegaron los siguientes valores:
+
+[INFO] 08:37:56:472 SWAMP/(28944:28944): pid: 2... nro_pagina: 1
+[INFO] 08:37:56:973 SWAMP/(28944:28944): recibi codigo de operacion mensaje 
+
+[INFO] 08:37:56:973 SWAMP/(28944:28944): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:37:56:973 SWAMP/(28944:28944): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:37:56:974 SWAMP/(28944:28944): Envio respuesta. 
+
+[INFO] 08:42:09:977 SWAMP/(29058:29058): Servidor listo pa recibir al cliente
+[INFO] 08:42:24:788 SWAMP/(29058:29058): Se conecto un cliente!
+[INFO] 08:42:24:788 SWAMP/(29058:29058): entro a trabajemos con el cliente
+
+[INFO] 08:42:24:788 SWAMP/(29058:29058): tipo asignacion: DINAMICA
+[INFO] 08:42:31:628 SWAMP/(29058:29058): Me llegaron los siguientes valores:
+
+[INFO] 08:42:31:628 SWAMP/(29058:29058): pid: 2... nro_pagina: 1
+[INFO] 08:42:32:129 SWAMP/(29058:29058): recibi codigo de operacion mensaje 
+
+[INFO] 08:42:32:129 SWAMP/(29058:29058): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:42:32:129 SWAMP/(29058:29058): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:42:32:130 SWAMP/(29058:29058): Envio respuesta. 
+
+[INFO] 08:43:14:401 SWAMP/(29143:29143): Servidor listo pa recibir al cliente
+[INFO] 08:43:31:468 SWAMP/(29143:29143): Se conecto un cliente!
+[INFO] 08:43:31:468 SWAMP/(29143:29143): entro a trabajemos con el cliente
+
+[INFO] 08:43:31:468 SWAMP/(29143:29143): tipo asignacion: DINAMICA
+[INFO] 08:43:38:313 SWAMP/(29143:29143): Me llegaron los siguientes valores:
+
+[INFO] 08:43:38:313 SWAMP/(29143:29143): pid: 2... nro_pagina: 1
+[INFO] 08:43:38:813 SWAMP/(29143:29143): recibi codigo de operacion mensaje 
+
+[INFO] 08:43:38:813 SWAMP/(29143:29143): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:43:38:813 SWAMP/(29143:29143): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:43:38:813 SWAMP/(29143:29143): Envio respuesta. 
+
+[INFO] 08:45:23:990 SWAMP/(29248:29248): Servidor listo pa recibir al cliente
+[INFO] 08:45:33:403 SWAMP/(29248:29248): Se conecto un cliente!
+[INFO] 08:45:33:403 SWAMP/(29248:29248): entro a trabajemos con el cliente
+
+[INFO] 08:45:33:403 SWAMP/(29248:29248): tipo asignacion: DINAMICA
+[INFO] 08:45:40:249 SWAMP/(29248:29248): Me llegaron los siguientes valores:
+
+[INFO] 08:45:40:249 SWAMP/(29248:29248): pid: 2... nro_pagina: 1
+[INFO] 08:45:40:750 SWAMP/(29248:29248): recibi codigo de operacion mensaje 
+
+[INFO] 08:45:40:750 SWAMP/(29248:29248): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:45:40:750 SWAMP/(29248:29248): Leyo en swap. Respuesta: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+
+[INFO] 08:45:40:750 SWAMP/(29248:29248): Envio respuesta. 
+
+[INFO] 08:58:58:563 SWAMP/(29646:29646): Servidor listo pa recibir al cliente
+[INFO] 08:59:08:759 SWAMP/(29646:29646): Se conecto un cliente!
+[INFO] 08:59:08:759 SWAMP/(29646:29646): entro a trabajemos con el cliente
+
+[INFO] 08:59:08:760 SWAMP/(29646:29646): tipo asignacion: DINAMICA
+[INFO] 08:59:15:599 SWAMP/(29646:29646): Me llegaron los siguientes valores:
+
+[INFO] 08:59:15:600 SWAMP/(29646:29646): pid: 2... nro_pagina: 1
+[INFO] 08:59:16:100 SWAMP/(29646:29646): recibi codigo de operacion mensaje 
+
+[INFO] 08:59:16:100 SWAMP/(29646:29646): Llego recibir paquete read. pid: 2 y nro_pagina: 1 
+
+[INFO] 08:59:16:100 SWAMP/(29646:29646): Leyo en swap. Respuesta:  
+
+[INFO] 08:59:16:100 SWAMP/(29646:29646): Envio respuesta. 
+
+[INFO] 09:10:12:236 SWAMP/(29905:29905): Servidor listo pa recibir al cliente
+[INFO] 09:10:19:835 SWAMP/(29905:29905): Se conecto un cliente!
+[INFO] 09:10:19:835 SWAMP/(29905:29905): entro a trabajemos con el cliente
+
+[INFO] 09:10:19:836 SWAMP/(29905:29905): tipo asignacion: DINAMICA
+[INFO] 09:13:55:384 SWAMP/(30168:30168): Servidor listo pa recibir al cliente
+[INFO] 09:14:03:435 SWAMP/(30168:30168): Se conecto un cliente!
+[INFO] 09:14:03:435 SWAMP/(30168:30168): entro a trabajemos con el cliente
+
+[INFO] 09:14:03:435 SWAMP/(30168:30168): tipo asignacion: DINAMICA
+[INFO] 09:14:05:749 SWAMP/(30168:30168): Me llegaron los siguientes valores:
+
+[INFO] 09:14:05:749 SWAMP/(30168:30168): pid: 1... nro_pagina: 0
+[INFO] 09:14:06:250 SWAMP/(30168:30168): Me llegaron los siguientes valores:
+
+[INFO] 09:14:06:250 SWAMP/(30168:30168): pid: 1... nro_pagina: 1
+[INFO] 09:14:06:751 SWAMP/(30168:30168): Me llegaron los siguientes valores:
+
+[INFO] 09:14:06:751 SWAMP/(30168:30168): pid: 1... nro_pagina: 2
+[INFO] 09:14:07:251 SWAMP/(30168:30168): Me llegaron los siguientes valores:
+
+[INFO] 09:14:07:252 SWAMP/(30168:30168): pid: 1... nro_pagina: 3
+[INFO] 09:23:25:106 SWAMP/(30564:30564): Servidor listo pa recibir al cliente
+[INFO] 09:23:42:015 SWAMP/(30564:30564): Se conecto un cliente!
+[INFO] 09:23:42:015 SWAMP/(30564:30564): entro a trabajemos con el cliente
+
+[INFO] 09:23:42:015 SWAMP/(30564:30564): tipo asignacion: DINAMICA
+[INFO] 09:23:44:329 SWAMP/(30564:30564): Me llegaron los siguientes valores:
+
+[INFO] 09:23:44:329 SWAMP/(30564:30564): pid: 1... nro_pagina: 0
+[INFO] 09:23:44:829 SWAMP/(30564:30564): Me llegaron los siguientes valores:
+
+[INFO] 09:23:44:829 SWAMP/(30564:30564): pid: 1... nro_pagina: 1
+[INFO] 09:23:45:330 SWAMP/(30564:30564): Me llegaron los siguientes valores:
+
+[INFO] 09:23:45:330 SWAMP/(30564:30564): pid: 1... nro_pagina: 2
+[INFO] 09:23:45:831 SWAMP/(30564:30564): Me llegaron los siguientes valores:
+
+[INFO] 09:23:45:831 SWAMP/(30564:30564): pid: 1... nro_pagina: 3
+[INFO] 09:23:46:332 SWAMP/(30564:30564): recibi codigo de operacion mensaje 
+
+[INFO] 09:23:46:332 SWAMP/(30564:30564): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 09:23:46:332 SWAMP/(30564:30564): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 09:23:46:332 SWAMP/(30564:30564): Envio respuesta. 
+
+[INFO] 09:23:46:833 SWAMP/(30564:30564): recibi codigo de operacion mensaje 
+
+[INFO] 09:23:46:833 SWAMP/(30564:30564): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 09:23:46:833 SWAMP/(30564:30564): Leyo en swap. Respuesta:  
+
+[INFO] 09:23:46:833 SWAMP/(30564:30564): Envio respuesta. 
+
+[INFO] 09:23:47:333 SWAMP/(30564:30564): recibi codigo de operacion mensaje 
+
+[INFO] 09:23:47:333 SWAMP/(30564:30564): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 09:23:47:334 SWAMP/(30564:30564): Leyo en swap. Respuesta:   
+
+[INFO] 09:23:47:334 SWAMP/(30564:30564): Envio respuesta. 
+
+[INFO] 09:23:47:834 SWAMP/(30564:30564): recibi codigo de operacion mensaje 
+
+[INFO] 09:23:47:835 SWAMP/(30564:30564): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 09:23:47:835 SWAMP/(30564:30564): Leyo en swap. Respuesta: @ 
+
+[INFO] 09:23:47:835 SWAMP/(30564:30564): Envio respuesta. 
+
+[INFO] 09:27:53:162 SWAMP/(30767:30767): Servidor listo pa recibir al cliente
+[INFO] 09:27:59:253 SWAMP/(30767:30767): Se conecto un cliente!
+[INFO] 09:27:59:253 SWAMP/(30767:30767): entro a trabajemos con el cliente
+
+[INFO] 09:27:59:253 SWAMP/(30767:30767): tipo asignacion: DINAMICA
+[INFO] 09:33:18:251 SWAMP/(31010:31010): Servidor listo pa recibir al cliente
+[INFO] 09:33:34:770 SWAMP/(31010:31010): Se conecto un cliente!
+[INFO] 09:33:34:770 SWAMP/(31010:31010): entro a trabajemos con el cliente
+
+[INFO] 09:33:34:770 SWAMP/(31010:31010): tipo asignacion: DINAMICA
+[INFO] 09:34:12:316 SWAMP/(31010:31010): Me llegaron los siguientes valores:
+
+[INFO] 09:34:12:317 SWAMP/(31010:31010): pid: 1... nro_pagina: 0
+[INFO] 09:35:00:144 SWAMP/(31010:31010): Me llegaron los siguientes valores:
+
+[INFO] 09:35:00:144 SWAMP/(31010:31010): pid: 1... nro_pagina: 1
+[INFO] 09:35:49:710 SWAMP/(31010:31010): Me llegaron los siguientes valores:
+
+[INFO] 09:35:49:710 SWAMP/(31010:31010): pid: 1... nro_pagina: 2
+[INFO] 09:36:03:806 SWAMP/(31010:31010): Me llegaron los siguientes valores:
+
+[INFO] 09:36:03:806 SWAMP/(31010:31010): pid: 1... nro_pagina: 3
+[INFO] 09:40:51:058 SWAMP/(31254:31254): Servidor listo pa recibir al cliente
+[INFO] 09:41:13:784 SWAMP/(31254:31254): Se conecto un cliente!
+[INFO] 09:41:13:784 SWAMP/(31254:31254): entro a trabajemos con el cliente
+
+[INFO] 09:41:13:784 SWAMP/(31254:31254): tipo asignacion: DINAMICA
+[INFO] 09:41:45:974 SWAMP/(31254:31254): Me llegaron los siguientes valores:
+
+[INFO] 09:41:45:974 SWAMP/(31254:31254): pid: 1... nro_pagina: 0
+[INFO] 09:42:06:100 SWAMP/(31254:31254): Me llegaron los siguientes valores:
+
+[INFO] 09:42:06:100 SWAMP/(31254:31254): pid: 1... nro_pagina: 1
+[INFO] 09:42:17:356 SWAMP/(31254:31254): Me llegaron los siguientes valores:
+
+[INFO] 09:42:17:356 SWAMP/(31254:31254): pid: 1... nro_pagina: 2
+[INFO] 09:42:32:502 SWAMP/(31254:31254): Me llegaron los siguientes valores:
+
+[INFO] 09:42:32:502 SWAMP/(31254:31254): pid: 1... nro_pagina: 3
+[INFO] 09:48:24:069 SWAMP/(31706:31706): Servidor listo pa recibir al cliente
+[INFO] 09:48:28:258 SWAMP/(31706:31706): Se conecto un cliente!
+[INFO] 09:48:28:258 SWAMP/(31706:31706): entro a trabajemos con el cliente
+
+[INFO] 09:48:28:258 SWAMP/(31706:31706): tipo asignacion: DINAMICA
+[INFO] 09:48:30:568 SWAMP/(31706:31706): Me llegaron los siguientes valores:
+
+[INFO] 09:48:30:568 SWAMP/(31706:31706): pid: 1... nro_pagina: 0
+[INFO] 09:48:31:068 SWAMP/(31706:31706): Me llegaron los siguientes valores:
+
+[INFO] 09:48:31:068 SWAMP/(31706:31706): pid: 1... nro_pagina: 1
+[INFO] 09:48:31:568 SWAMP/(31706:31706): Me llegaron los siguientes valores:
+
+[INFO] 09:48:31:569 SWAMP/(31706:31706): pid: 1... nro_pagina: 2
+[INFO] 09:48:32:069 SWAMP/(31706:31706): Me llegaron los siguientes valores:
+
+[INFO] 09:48:32:070 SWAMP/(31706:31706): pid: 1... nro_pagina: 3
+[INFO] 09:52:54:522 SWAMP/(31867:31867): Servidor listo pa recibir al cliente
+[INFO] 09:52:56:712 SWAMP/(31867:31867): Se conecto un cliente!
+[INFO] 09:52:56:712 SWAMP/(31867:31867): entro a trabajemos con el cliente
+
+[INFO] 09:52:56:713 SWAMP/(31867:31867): tipo asignacion: DINAMICA
+[INFO] 09:52:59:021 SWAMP/(31867:31867): Me llegaron los siguientes valores:
+
+[INFO] 09:52:59:021 SWAMP/(31867:31867): pid: 1... nro_pagina: 0
+[INFO] 09:52:59:521 SWAMP/(31867:31867): Me llegaron los siguientes valores:
+
+[INFO] 09:52:59:522 SWAMP/(31867:31867): pid: 1... nro_pagina: 1
+[INFO] 09:53:00:023 SWAMP/(31867:31867): Me llegaron los siguientes valores:
+
+[INFO] 09:53:00:023 SWAMP/(31867:31867): pid: 1... nro_pagina: 2
+[INFO] 09:53:00:523 SWAMP/(31867:31867): Me llegaron los siguientes valores:
+
+[INFO] 09:53:00:523 SWAMP/(31867:31867): pid: 1... nro_pagina: 3
+[INFO] 09:53:01:025 SWAMP/(31867:31867): recibi codigo de operacion mensaje 
+
+[INFO] 09:53:01:025 SWAMP/(31867:31867): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 09:53:01:025 SWAMP/(31867:31867): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 09:53:01:025 SWAMP/(31867:31867): Envio respuesta. 
+
+[INFO] 09:53:01:525 SWAMP/(31867:31867): recibi codigo de operacion mensaje 
+
+[INFO] 09:53:01:525 SWAMP/(31867:31867): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 09:53:01:525 SWAMP/(31867:31867): Leyo en swap. Respuesta:  
+
+[INFO] 09:53:01:525 SWAMP/(31867:31867): Envio respuesta. 
+
+[INFO] 09:53:02:026 SWAMP/(31867:31867): recibi codigo de operacion mensaje 
+
+[INFO] 09:53:02:026 SWAMP/(31867:31867): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 09:53:02:026 SWAMP/(31867:31867): Leyo en swap. Respuesta:   
+
+[INFO] 09:53:02:026 SWAMP/(31867:31867): Envio respuesta. 
+
+[INFO] 09:53:02:527 SWAMP/(31867:31867): recibi codigo de operacion mensaje 
+
+[INFO] 09:53:02:527 SWAMP/(31867:31867): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 09:53:02:527 SWAMP/(31867:31867): Leyo en swap. Respuesta: @ 
+
+[INFO] 09:53:02:527 SWAMP/(31867:31867): Envio respuesta. 
+
+[INFO] 09:54:39:977 SWAMP/(31916:31916): Servidor listo pa recibir al cliente
+[INFO] 09:54:41:887 SWAMP/(31916:31916): Se conecto un cliente!
+[INFO] 09:54:41:887 SWAMP/(31916:31916): entro a trabajemos con el cliente
+
+[INFO] 09:54:41:887 SWAMP/(31916:31916): tipo asignacion: DINAMICA
+[INFO] 09:54:44:197 SWAMP/(31916:31916): Me llegaron los siguientes valores:
+
+[INFO] 09:54:44:197 SWAMP/(31916:31916): pid: 1... nro_pagina: 0
+[INFO] 09:54:44:697 SWAMP/(31916:31916): Me llegaron los siguientes valores:
+
+[INFO] 09:54:44:697 SWAMP/(31916:31916): pid: 1... nro_pagina: 1
+[INFO] 09:54:45:198 SWAMP/(31916:31916): Me llegaron los siguientes valores:
+
+[INFO] 09:54:45:199 SWAMP/(31916:31916): pid: 1... nro_pagina: 2
+[INFO] 09:54:45:699 SWAMP/(31916:31916): Me llegaron los siguientes valores:
+
+[INFO] 09:54:45:699 SWAMP/(31916:31916): pid: 1... nro_pagina: 3
+[INFO] 09:54:46:199 SWAMP/(31916:31916): recibi codigo de operacion mensaje 
+
+[INFO] 09:54:46:200 SWAMP/(31916:31916): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 09:54:46:200 SWAMP/(31916:31916): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 09:54:46:200 SWAMP/(31916:31916): Envio respuesta. 
+
+[INFO] 09:54:46:700 SWAMP/(31916:31916): recibi codigo de operacion mensaje 
+
+[INFO] 09:54:46:700 SWAMP/(31916:31916): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 09:54:46:700 SWAMP/(31916:31916): Leyo en swap. Respuesta:  
+
+[INFO] 09:54:46:700 SWAMP/(31916:31916): Envio respuesta. 
+
+[INFO] 09:54:47:200 SWAMP/(31916:31916): recibi codigo de operacion mensaje 
+
+[INFO] 09:54:47:200 SWAMP/(31916:31916): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 09:54:47:200 SWAMP/(31916:31916): Leyo en swap. Respuesta:   
+
+[INFO] 09:54:47:200 SWAMP/(31916:31916): Envio respuesta. 
+
+[INFO] 09:54:47:700 SWAMP/(31916:31916): recibi codigo de operacion mensaje 
+
+[INFO] 09:54:47:700 SWAMP/(31916:31916): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 09:54:47:700 SWAMP/(31916:31916): Leyo en swap. Respuesta: @ 
+
+[INFO] 09:54:47:700 SWAMP/(31916:31916): Envio respuesta. 
+
+[INFO] 10:03:32:614 SWAMP/(32206:32206): Servidor listo pa recibir al cliente
+[INFO] 10:03:34:810 SWAMP/(32206:32206): Se conecto un cliente!
+[INFO] 10:03:34:810 SWAMP/(32206:32206): entro a trabajemos con el cliente
+
+[INFO] 10:03:34:810 SWAMP/(32206:32206): tipo asignacion: DINAMICA
+[INFO] 10:03:37:122 SWAMP/(32206:32206): Me llegaron los siguientes valores:
+
+[INFO] 10:03:37:122 SWAMP/(32206:32206): pid: 1... nro_pagina: 0
+[INFO] 10:03:37:623 SWAMP/(32206:32206): Me llegaron los siguientes valores:
+
+[INFO] 10:03:37:623 SWAMP/(32206:32206): pid: 1... nro_pagina: 1
+[INFO] 10:03:38:123 SWAMP/(32206:32206): Me llegaron los siguientes valores:
+
+[INFO] 10:03:38:123 SWAMP/(32206:32206): pid: 1... nro_pagina: 2
+[INFO] 10:03:38:623 SWAMP/(32206:32206): Me llegaron los siguientes valores:
+
+[INFO] 10:03:38:624 SWAMP/(32206:32206): pid: 1... nro_pagina: 3
+[INFO] 10:03:39:124 SWAMP/(32206:32206): recibi codigo de operacion mensaje 
+
+[INFO] 10:03:39:124 SWAMP/(32206:32206): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 10:03:39:124 SWAMP/(32206:32206): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 10:03:39:124 SWAMP/(32206:32206): Envio respuesta. 
+
+[INFO] 10:03:39:625 SWAMP/(32206:32206): recibi codigo de operacion mensaje 
+
+[INFO] 10:03:39:625 SWAMP/(32206:32206): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 10:03:39:625 SWAMP/(32206:32206): Leyo en swap. Respuesta:  
+
+[INFO] 10:03:39:625 SWAMP/(32206:32206): Envio respuesta. 
+
+[INFO] 10:03:40:126 SWAMP/(32206:32206): recibi codigo de operacion mensaje 
+
+[INFO] 10:03:40:126 SWAMP/(32206:32206): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 10:03:40:126 SWAMP/(32206:32206): Leyo en swap. Respuesta:   
+
+[INFO] 10:03:40:126 SWAMP/(32206:32206): Envio respuesta. 
+
+[INFO] 10:03:40:626 SWAMP/(32206:32206): recibi codigo de operacion mensaje 
+
+[INFO] 10:03:40:626 SWAMP/(32206:32206): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 10:03:40:626 SWAMP/(32206:32206): Leyo en swap. Respuesta: @ 
+
+[INFO] 10:03:40:626 SWAMP/(32206:32206): Envio respuesta. 
+
+[INFO] 10:04:22:563 SWAMP/(32246:32246): Servidor listo pa recibir al cliente
+[INFO] 10:04:24:201 SWAMP/(32246:32246): Se conecto un cliente!
+[INFO] 10:04:24:201 SWAMP/(32246:32246): entro a trabajemos con el cliente
+
+[INFO] 10:04:24:202 SWAMP/(32246:32246): tipo asignacion: DINAMICA
+[INFO] 10:04:26:510 SWAMP/(32246:32246): Me llegaron los siguientes valores:
+
+[INFO] 10:04:26:510 SWAMP/(32246:32246): pid: 1... nro_pagina: 0
+[INFO] 10:04:27:010 SWAMP/(32246:32246): Me llegaron los siguientes valores:
+
+[INFO] 10:04:27:010 SWAMP/(32246:32246): pid: 1... nro_pagina: 1
+[INFO] 10:04:27:511 SWAMP/(32246:32246): Me llegaron los siguientes valores:
+
+[INFO] 10:04:27:511 SWAMP/(32246:32246): pid: 1... nro_pagina: 2
+[INFO] 10:04:28:012 SWAMP/(32246:32246): Me llegaron los siguientes valores:
+
+[INFO] 10:04:28:012 SWAMP/(32246:32246): pid: 1... nro_pagina: 3
+[INFO] 10:04:28:512 SWAMP/(32246:32246): recibi codigo de operacion mensaje 
+
+[INFO] 10:04:28:512 SWAMP/(32246:32246): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 10:04:28:512 SWAMP/(32246:32246): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 10:04:28:512 SWAMP/(32246:32246): Envio respuesta. 
+
+[INFO] 10:04:29:013 SWAMP/(32246:32246): recibi codigo de operacion mensaje 
+
+[INFO] 10:04:29:013 SWAMP/(32246:32246): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 10:04:29:013 SWAMP/(32246:32246): Leyo en swap. Respuesta:  
+
+[INFO] 10:04:29:013 SWAMP/(32246:32246): Envio respuesta. 
+
+[INFO] 10:04:29:514 SWAMP/(32246:32246): recibi codigo de operacion mensaje 
+
+[INFO] 10:04:29:514 SWAMP/(32246:32246): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 10:04:29:514 SWAMP/(32246:32246): Leyo en swap. Respuesta:   
+
+[INFO] 10:04:29:514 SWAMP/(32246:32246): Envio respuesta. 
+
+[INFO] 10:04:30:015 SWAMP/(32246:32246): recibi codigo de operacion mensaje 
+
+[INFO] 10:04:30:015 SWAMP/(32246:32246): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 10:04:30:015 SWAMP/(32246:32246): Leyo en swap. Respuesta: @ 
+
+[INFO] 10:04:30:015 SWAMP/(32246:32246): Envio respuesta. 
+
+[INFO] 10:06:58:202 SWAMP/(32343:32343): Servidor listo pa recibir al cliente
+[INFO] 10:07:00:445 SWAMP/(32343:32343): Se conecto un cliente!
+[INFO] 10:07:00:445 SWAMP/(32343:32343): entro a trabajemos con el cliente
+
+[INFO] 10:07:00:445 SWAMP/(32343:32343): tipo asignacion: DINAMICA
+[INFO] 10:07:02:757 SWAMP/(32343:32343): Me llegaron los siguientes valores:
+
+[INFO] 10:07:02:757 SWAMP/(32343:32343): pid: 1... nro_pagina: 0
+[INFO] 10:07:03:257 SWAMP/(32343:32343): Me llegaron los siguientes valores:
+
+[INFO] 10:07:03:257 SWAMP/(32343:32343): pid: 1... nro_pagina: 1
+[INFO] 10:07:03:757 SWAMP/(32343:32343): Me llegaron los siguientes valores:
+
+[INFO] 10:07:03:758 SWAMP/(32343:32343): pid: 1... nro_pagina: 2
+[INFO] 10:07:04:258 SWAMP/(32343:32343): Me llegaron los siguientes valores:
+
+[INFO] 10:07:04:258 SWAMP/(32343:32343): pid: 1... nro_pagina: 3
+[INFO] 10:07:04:758 SWAMP/(32343:32343): recibi codigo de operacion mensaje 
+
+[INFO] 10:07:04:758 SWAMP/(32343:32343): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 10:07:04:758 SWAMP/(32343:32343): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 10:07:04:758 SWAMP/(32343:32343): Envio respuesta. 
+
+[INFO] 10:07:05:259 SWAMP/(32343:32343): recibi codigo de operacion mensaje 
+
+[INFO] 10:07:05:259 SWAMP/(32343:32343): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 10:07:05:259 SWAMP/(32343:32343): Leyo en swap. Respuesta:  
+
+[INFO] 10:07:05:259 SWAMP/(32343:32343): Envio respuesta. 
+
+[INFO] 10:07:05:759 SWAMP/(32343:32343): recibi codigo de operacion mensaje 
+
+[INFO] 10:07:05:759 SWAMP/(32343:32343): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 10:07:05:759 SWAMP/(32343:32343): Leyo en swap. Respuesta:   
+
+[INFO] 10:07:05:759 SWAMP/(32343:32343): Envio respuesta. 
+
+[INFO] 10:07:06:259 SWAMP/(32343:32343): recibi codigo de operacion mensaje 
+
+[INFO] 10:07:06:260 SWAMP/(32343:32343): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 10:07:06:260 SWAMP/(32343:32343): Leyo en swap. Respuesta: @ 
+
+[INFO] 10:07:06:260 SWAMP/(32343:32343): Envio respuesta. 
+
+[INFO] 10:09:32:288 SWAMP/(32413:32413): Servidor listo pa recibir al cliente
+[INFO] 10:09:34:492 SWAMP/(32413:32413): Se conecto un cliente!
+[INFO] 10:09:34:492 SWAMP/(32413:32413): entro a trabajemos con el cliente
+
+[INFO] 10:09:34:492 SWAMP/(32413:32413): tipo asignacion: DINAMICA
+[INFO] 10:09:36:801 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:36:801 SWAMP/(32413:32413): pid: 1... nro_pagina: 0
+[INFO] 10:09:37:302 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:37:302 SWAMP/(32413:32413): pid: 1... nro_pagina: 1
+[INFO] 10:09:37:803 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:37:803 SWAMP/(32413:32413): pid: 1... nro_pagina: 2
+[INFO] 10:09:38:303 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:38:303 SWAMP/(32413:32413): pid: 1... nro_pagina: 3
+[INFO] 10:09:38:804 SWAMP/(32413:32413): recibi codigo de operacion mensaje 
+
+[INFO] 10:09:38:804 SWAMP/(32413:32413): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 10:09:38:804 SWAMP/(32413:32413): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 10:09:38:804 SWAMP/(32413:32413): Envio respuesta. 
+
+[INFO] 10:09:39:305 SWAMP/(32413:32413): recibi codigo de operacion mensaje 
+
+[INFO] 10:09:39:305 SWAMP/(32413:32413): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 10:09:39:305 SWAMP/(32413:32413): Leyo en swap. Respuesta:  
+
+[INFO] 10:09:39:306 SWAMP/(32413:32413): Envio respuesta. 
+
+[INFO] 10:09:39:806 SWAMP/(32413:32413): recibi codigo de operacion mensaje 
+
+[INFO] 10:09:39:806 SWAMP/(32413:32413): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 10:09:39:806 SWAMP/(32413:32413): Leyo en swap. Respuesta:   
+
+[INFO] 10:09:39:806 SWAMP/(32413:32413): Envio respuesta. 
+
+[INFO] 10:09:40:306 SWAMP/(32413:32413): recibi codigo de operacion mensaje 
+
+[INFO] 10:09:40:306 SWAMP/(32413:32413): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 10:09:40:307 SWAMP/(32413:32413): Leyo en swap. Respuesta: @ 
+
+[INFO] 10:09:40:307 SWAMP/(32413:32413): Envio respuesta. 
+
+[INFO] 10:09:40:807 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:40:807 SWAMP/(32413:32413): pid: 1... nro_pagina: 0
+[INFO] 10:09:41:307 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:41:308 SWAMP/(32413:32413): pid: 1... nro_pagina: 1
+[INFO] 10:09:41:808 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:41:808 SWAMP/(32413:32413): pid: 1... nro_pagina: 2
+[INFO] 10:09:42:308 SWAMP/(32413:32413): Me llegaron los siguientes valores:
+
+[INFO] 10:09:42:308 SWAMP/(32413:32413): pid: 1... nro_pagina: 3
+[INFO] 10:11:46:320 SWAMP/(32502:32502): Servidor listo pa recibir al cliente
+[INFO] 10:11:49:409 SWAMP/(32502:32502): Se conecto un cliente!
+[INFO] 10:11:49:409 SWAMP/(32502:32502): entro a trabajemos con el cliente
+
+[INFO] 10:11:49:409 SWAMP/(32502:32502): tipo asignacion: DINAMICA
+[INFO] 10:11:51:719 SWAMP/(32502:32502): Me llegaron los siguientes valores:
+
+[INFO] 10:11:51:719 SWAMP/(32502:32502): pid: 1... nro_pagina: 0
+[INFO] 10:11:52:221 SWAMP/(32502:32502): Me llegaron los siguientes valores:
+
+[INFO] 10:11:52:221 SWAMP/(32502:32502): pid: 1... nro_pagina: 1
+[INFO] 10:11:52:721 SWAMP/(32502:32502): Me llegaron los siguientes valores:
+
+[INFO] 10:11:52:721 SWAMP/(32502:32502): pid: 1... nro_pagina: 2
+[INFO] 10:11:53:222 SWAMP/(32502:32502): Me llegaron los siguientes valores:
+
+[INFO] 10:11:53:223 SWAMP/(32502:32502): pid: 1... nro_pagina: 3
+[INFO] 10:11:53:724 SWAMP/(32502:32502): recibi codigo de operacion mensaje 
+
+[INFO] 10:11:53:724 SWAMP/(32502:32502): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 10:11:53:724 SWAMP/(32502:32502): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 10:11:53:724 SWAMP/(32502:32502): Envio respuesta. 
+
+[INFO] 10:11:54:224 SWAMP/(32502:32502): recibi codigo de operacion mensaje 
+
+[INFO] 10:11:54:224 SWAMP/(32502:32502): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 10:11:54:224 SWAMP/(32502:32502): Leyo en swap. Respuesta:  
+
+[INFO] 10:11:54:224 SWAMP/(32502:32502): Envio respuesta. 
+
+[INFO] 10:11:54:725 SWAMP/(32502:32502): recibi codigo de operacion mensaje 
+
+[INFO] 10:11:54:725 SWAMP/(32502:32502): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 10:11:54:725 SWAMP/(32502:32502): Leyo en swap. Respuesta:   
+
+[INFO] 10:11:54:725 SWAMP/(32502:32502): Envio respuesta. 
+
+[INFO] 10:11:55:225 SWAMP/(32502:32502): recibi codigo de operacion mensaje 
+
+[INFO] 10:11:55:225 SWAMP/(32502:32502): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 10:11:55:225 SWAMP/(32502:32502): Leyo en swap. Respuesta: @ 
+
+[INFO] 10:11:55:225 SWAMP/(32502:32502): Envio respuesta. 
+
+[INFO] 10:19:11:770 SWAMP/(332:332): Servidor listo pa recibir al cliente
+[INFO] 10:19:49:063 SWAMP/(332:332): Se conecto un cliente!
+[INFO] 10:19:49:063 SWAMP/(332:332): entro a trabajemos con el cliente
+
+[INFO] 10:19:49:063 SWAMP/(332:332): tipo asignacion: DINAMICA
+[INFO] 10:19:53:395 SWAMP/(332:332): Me llegaron los siguientes valores:
+
+[INFO] 10:19:53:395 SWAMP/(332:332): pid: 1... nro_pagina: 0
+[INFO] 10:20:07:531 SWAMP/(332:332): Me llegaron los siguientes valores:
+
+[INFO] 10:20:07:531 SWAMP/(332:332): pid: 1... nro_pagina: 1
+[INFO] 10:20:28:347 SWAMP/(332:332): Me llegaron los siguientes valores:
+
+[INFO] 10:20:28:347 SWAMP/(332:332): pid: 1... nro_pagina: 2
+[INFO] 10:21:03:433 SWAMP/(332:332): Me llegaron los siguientes valores:
+
+[INFO] 10:21:03:433 SWAMP/(332:332): pid: 1... nro_pagina: 3
+[INFO] 10:21:47:968 SWAMP/(332:332): recibi codigo de operacion mensaje 
+
+[INFO] 10:21:47:968 SWAMP/(332:332): Llego recibir paquete read. pid: 1 y nro_pagina: 0 
+
+[INFO] 10:21:47:968 SWAMP/(332:332): Leyo en swap. Respuesta: ÿÿÿÿ  
+
+[INFO] 10:21:47:968 SWAMP/(332:332): Envio respuesta. 
+
+[INFO] 10:21:52:482 SWAMP/(332:332): recibi codigo de operacion mensaje 
+
+[INFO] 10:21:52:482 SWAMP/(332:332): Llego recibir paquete read. pid: 1 y nro_pagina: 1 
+
+[INFO] 10:21:52:482 SWAMP/(332:332): Leyo en swap. Respuesta:  
+
+[INFO] 10:21:52:482 SWAMP/(332:332): Envio respuesta. 
+
+[INFO] 10:21:54:736 SWAMP/(332:332): recibi codigo de operacion mensaje 
+
+[INFO] 10:21:54:736 SWAMP/(332:332): Llego recibir paquete read. pid: 1 y nro_pagina: 2 
+
+[INFO] 10:21:54:736 SWAMP/(332:332): Leyo en swap. Respuesta:   
+
+[INFO] 10:21:54:736 SWAMP/(332:332): Envio respuesta. 
+
+[INFO] 10:21:57:670 SWAMP/(332:332): recibi codigo de operacion mensaje 
+
+[INFO] 10:21:57:670 SWAMP/(332:332): Llego recibir paquete read. pid: 1 y nro_pagina: 3 
+
+[INFO] 10:21:57:670 SWAMP/(332:332): Leyo en swap. Respuesta: @ 
+
+[INFO] 10:21:57:670 SWAMP/(332:332): Envio respuesta. 
+
+[INFO] 10:57:55:278 SWAMP/(1188:1188): Servidor listo pa recibir al cliente
+[INFO] 10:58:04:698 SWAMP/(1188:1188): Se conecto un cliente!
+[INFO] 10:58:04:699 SWAMP/(1188:1188): entro a trabajemos con el cliente
+
+[INFO] 10:58:04:699 SWAMP/(1188:1188): tipo asignacion: DINAMICA
+[INFO] 11:01:15:718 SWAMP/(1298:1298): Servidor listo pa recibir al cliente
+[INFO] 11:05:39:610 SWAMP/(1298:1298): Se conecto un cliente!
+[INFO] 11:05:39:612 SWAMP/(1298:1298): entro a trabajemos con el cliente
+
+[INFO] 11:05:39:612 SWAMP/(1298:1298): tipo asignacion: DINAMICA
+[INFO] 11:05:41:923 SWAMP/(1298:1298): Me llegaron los siguientes valores:
+
+[INFO] 11:05:41:924 SWAMP/(1298:1298): pid: 1... nro_pagina: 1
+[INFO] 11:05:42:425 SWAMP/(1298:1298): recibi codigo de operacion mensaje
+[INFO] 11:07:09:460 SWAMP/(1746:1746): Servidor listo pa recibir al cliente
+[INFO] 11:07:20:479 SWAMP/(1746:1746): Se conecto un cliente!
+[INFO] 11:07:20:479 SWAMP/(1746:1746): entro a trabajemos con el cliente
+
+[INFO] 11:07:20:479 SWAMP/(1746:1746): tipo asignacion: DINAMICA
+[INFO] 11:07:22:795 SWAMP/(1746:1746): Me llegaron los siguientes valores:
+
+[INFO] 11:07:22:795 SWAMP/(1746:1746): pid: 1... nro_pagina: 1
+[INFO] 11:09:21:738 SWAMP/(1860:1860): Servidor listo pa recibir al cliente
+[INFO] 11:09:44:006 SWAMP/(1860:1860): Se conecto un cliente!
+[INFO] 11:09:44:006 SWAMP/(1860:1860): entro a trabajemos con el cliente
+
+[INFO] 11:09:44:006 SWAMP/(1860:1860): tipo asignacion: DINAMICA
+[INFO] 11:09:46:319 SWAMP/(1860:1860): Me llegaron los siguientes valores:
+
+[INFO] 11:09:46:320 SWAMP/(1860:1860): pid: 1... nro_pagina: 1
+[INFO] 11:09:46:821 SWAMP/(1860:1860): recibi codigo de operacion mensaje
+[INFO] 11:12:15:778 SWAMP/(1973:1973): Servidor listo pa recibir al cliente
+[INFO] 11:12:22:244 SWAMP/(1973:1973): Se conecto un cliente!
+[INFO] 11:12:22:244 SWAMP/(1973:1973): entro a trabajemos con el cliente
+
+[INFO] 11:12:22:244 SWAMP/(1973:1973): tipo asignacion: DINAMICA
+[INFO] 11:12:24:554 SWAMP/(1973:1973): Me llegaron los siguientes valores:
+
+[INFO] 11:12:24:554 SWAMP/(1973:1973): pid: 1... nro_pagina: 1
+[INFO] 11:12:25:055 SWAMP/(1973:1973): recibi codigo de operacion mensaje
+[INFO] 11:54:38:590 SWAMP/(11283:11283): Servidor listo pa recibir al cliente
+[INFO] 11:54:42:487 SWAMP/(11283:11283): Se conecto un cliente!
+[INFO] 11:54:42:487 SWAMP/(11283:11283): entro a trabajemos con el cliente
+
+[INFO] 11:54:42:487 SWAMP/(11283:11283): tipo asignacion: DINAMICA
+[INFO] 11:55:20:065 SWAMP/(11373:11373): Servidor listo pa recibir al cliente
+[INFO] 11:55:29:151 SWAMP/(11373:11373): Se conecto un cliente!
+[INFO] 11:55:29:151 SWAMP/(11373:11373): entro a trabajemos con el cliente
+
+[INFO] 11:55:29:173 SWAMP/(11373:11373): tipo asignacion: DINAMICA
+[INFO] 11:55:31:749 SWAMP/(11373:11373): Me llegaron los siguientes valores:
+
+[INFO] 11:55:31:749 SWAMP/(11373:11373): pid: 1... nro_pagina: 1
+[INFO] 11:55:32:250 SWAMP/(11373:11373): recibi codigo de operacion mensaje
+[INFO] 12:05:22:776 SWAMP/(12822:12822): Servidor listo pa recibir al cliente
+[INFO] 12:05:26:859 SWAMP/(12822:12822): Se conecto un cliente!
+[INFO] 12:05:26:859 SWAMP/(12822:12822): entro a trabajemos con el cliente
+
+[INFO] 12:05:26:859 SWAMP/(12822:12822): tipo asignacion: DINAMICA
+[INFO] 12:07:31:286 SWAMP/(13137:13137): Servidor listo pa recibir al cliente
+[INFO] 12:07:33:061 SWAMP/(13137:13137): Se conecto un cliente!
+[INFO] 12:07:33:061 SWAMP/(13137:13137): entro a trabajemos con el cliente
+
+[INFO] 12:07:33:061 SWAMP/(13137:13137): tipo asignacion: DINAMICA
+[INFO] 12:08:25:859 SWAMP/(13414:13414): Servidor listo pa recibir al cliente
+[INFO] 12:08:27:145 SWAMP/(13414:13414): Se conecto un cliente!
+[INFO] 12:08:27:145 SWAMP/(13414:13414): entro a trabajemos con el cliente
+
+[INFO] 12:08:27:145 SWAMP/(13414:13414): tipo asignacion: DINAMICA
+[INFO] 12:12:13:029 SWAMP/(13880:13880): Servidor listo pa recibir al cliente
+[INFO] 12:12:14:944 SWAMP/(13880:13880): Se conecto un cliente!
+[INFO] 12:12:14:944 SWAMP/(13880:13880): entro a trabajemos con el cliente
+
+[INFO] 12:12:14:944 SWAMP/(13880:13880): tipo asignacion: DINAMICA
+[INFO] 12:13:31:414 SWAMP/(14049:14049): Servidor listo pa recibir al cliente
+[INFO] 12:13:32:868 SWAMP/(14049:14049): Se conecto un cliente!
+[INFO] 12:13:32:868 SWAMP/(14049:14049): entro a trabajemos con el cliente
+
+[INFO] 12:13:32:869 SWAMP/(14049:14049): tipo asignacion: DINAMICA
+[INFO] 12:15:38:267 SWAMP/(15215:15215): Servidor listo pa recibir al cliente
+[INFO] 12:15:41:797 SWAMP/(15215:15215): Se conecto un cliente!
+[INFO] 12:15:41:797 SWAMP/(15215:15215): entro a trabajemos con el cliente
+
+[INFO] 12:15:41:797 SWAMP/(15215:15215): tipo asignacion: DINAMICA
+[INFO] 12:18:40:447 SWAMP/(15539:15539): Servidor listo pa recibir al cliente
+[INFO] 12:18:43:227 SWAMP/(15539:15539): Se conecto un cliente!
+[INFO] 12:18:43:227 SWAMP/(15539:15539): entro a trabajemos con el cliente
+
+[INFO] 12:18:43:227 SWAMP/(15539:15539): tipo asignacion: DINAMICA
+[INFO] 12:20:15:416 SWAMP/(15831:15831): Servidor listo pa recibir al cliente
+[INFO] 12:20:21:687 SWAMP/(15831:15831): Se conecto un cliente!
+[INFO] 12:20:21:690 SWAMP/(15831:15831): entro a trabajemos con el cliente
+
+[INFO] 12:20:21:707 SWAMP/(15831:15831): tipo asignacion: DINAMICA
+[INFO] 12:26:50:985 SWAMP/(16527:16527): Servidor listo pa recibir al cliente
+[INFO] 12:26:55:649 SWAMP/(16527:16527): Se conecto un cliente!
+[INFO] 12:26:55:649 SWAMP/(16527:16527): entro a trabajemos con el cliente
+
+[INFO] 12:26:55:649 SWAMP/(16527:16527): tipo asignacion: DINAMICA
+[INFO] 12:30:35:532 SWAMP/(16968:16968): Servidor listo pa recibir al cliente
+[INFO] 12:30:37:382 SWAMP/(16968:16968): Se conecto un cliente!
+[INFO] 12:30:37:382 SWAMP/(16968:16968): entro a trabajemos con el cliente
+
+[INFO] 12:30:37:382 SWAMP/(16968:16968): tipo asignacion: DINAMICA
+[INFO] 12:31:12:563 SWAMP/(17034:17034): Servidor listo pa recibir al cliente
+[INFO] 12:31:14:156 SWAMP/(17034:17034): Se conecto un cliente!
+[INFO] 12:31:14:156 SWAMP/(17034:17034): entro a trabajemos con el cliente
+
+[INFO] 12:31:14:156 SWAMP/(17034:17034): tipo asignacion: DINAMICA
+[INFO] 12:31:51:299 SWAMP/(17094:17094): Servidor listo pa recibir al cliente
+[INFO] 12:31:55:021 SWAMP/(17094:17094): Se conecto un cliente!
+[INFO] 12:31:55:023 SWAMP/(17094:17094): entro a trabajemos con el cliente
+
+[INFO] 12:31:55:039 SWAMP/(17094:17094): tipo asignacion: DINAMICA
+[INFO] 12:31:57:618 SWAMP/(17094:17094): Me llegaron los siguientes valores:
+
+[INFO] 12:31:57:624 SWAMP/(17094:17094): pid: 1... nro_pagina: 1
+[INFO] 12:31:58:156 SWAMP/(17094:17094): recibi codigo de operacion mensaje
+[INFO] 12:32:46:524 SWAMP/(17223:17223): Servidor listo pa recibir al cliente
+[INFO] 12:32:48:778 SWAMP/(17223:17223): Se conecto un cliente!
+[INFO] 12:32:48:778 SWAMP/(17223:17223): entro a trabajemos con el cliente
+
+[INFO] 12:32:48:779 SWAMP/(17223:17223): tipo asignacion: DINAMICA
+[INFO] 12:33:10:234 SWAMP/(17427:17427): Servidor listo pa recibir al cliente
+[INFO] 12:33:12:028 SWAMP/(17427:17427): Se conecto un cliente!
+[INFO] 12:33:12:031 SWAMP/(17427:17427): entro a trabajemos con el cliente
+
+[INFO] 12:33:12:043 SWAMP/(17427:17427): tipo asignacion: DINAMICA
+[INFO] 12:34:40:510 SWAMP/(17627:17627): Servidor listo pa recibir al cliente
+[INFO] 12:34:42:352 SWAMP/(17627:17627): Se conecto un cliente!
+[INFO] 12:34:42:354 SWAMP/(17627:17627): entro a trabajemos con el cliente
+
+[INFO] 12:34:42:366 SWAMP/(17627:17627): tipo asignacion: DINAMICA
+[INFO] 12:35:45:635 SWAMP/(17769:17769): Servidor listo pa recibir al cliente
+[INFO] 12:35:47:061 SWAMP/(17769:17769): Se conecto un cliente!
+[INFO] 12:35:47:064 SWAMP/(17769:17769): entro a trabajemos con el cliente
+
+[INFO] 12:35:47:079 SWAMP/(17769:17769): tipo asignacion: DINAMICA
+[INFO] 12:40:22:643 SWAMP/(18248:18248): Servidor listo pa recibir al cliente
+[INFO] 12:40:24:710 SWAMP/(18248:18248): Se conecto un cliente!
+[INFO] 12:40:24:712 SWAMP/(18248:18248): entro a trabajemos con el cliente
+
+[INFO] 12:40:24:725 SWAMP/(18248:18248): tipo asignacion: DINAMICA
+[INFO] 12:43:35:232 SWAMP/(18811:18811): Servidor listo pa recibir al cliente
+[INFO] 12:43:37:225 SWAMP/(18811:18811): Se conecto un cliente!
+[INFO] 12:43:37:226 SWAMP/(18811:18811): entro a trabajemos con el cliente
+
+[INFO] 12:43:37:239 SWAMP/(18811:18811): tipo asignacion: DINAMICA
+[INFO] 12:50:37:529 SWAMP/(19534:19534): Servidor listo pa recibir al cliente
+[INFO] 12:50:38:962 SWAMP/(19534:19534): Se conecto un cliente!
+[INFO] 12:50:38:964 SWAMP/(19534:19534): entro a trabajemos con el cliente
+
+[INFO] 12:50:38:983 SWAMP/(19534:19534): tipo asignacion: DINAMICA
+[INFO] 12:56:10:550 SWAMP/(20259:20259): Servidor listo pa recibir al cliente
+[INFO] 12:56:12:494 SWAMP/(20259:20259): Se conecto un cliente!
+[INFO] 12:56:12:496 SWAMP/(20259:20259): entro a trabajemos con el cliente
+
+[INFO] 12:56:12:509 SWAMP/(20259:20259): tipo asignacion: DINAMICA
+[INFO] 12:58:11:862 SWAMP/(20492:20492): Servidor listo pa recibir al cliente
+[INFO] 12:58:13:407 SWAMP/(20492:20492): Se conecto un cliente!
+[INFO] 12:58:13:409 SWAMP/(20492:20492): entro a trabajemos con el cliente
+
+[INFO] 12:58:13:422 SWAMP/(20492:20492): tipo asignacion: DINAMICA
+[INFO] 13:00:16:769 SWAMP/(20701:20701): Servidor listo pa recibir al cliente
+[INFO] 13:00:18:772 SWAMP/(20701:20701): Se conecto un cliente!
+[INFO] 13:00:18:772 SWAMP/(20701:20701): entro a trabajemos con el cliente
+
+[INFO] 13:00:18:772 SWAMP/(20701:20701): tipo asignacion: DINAMICA
+[INFO] 13:03:21:206 SWAMP/(21051:21051): Servidor listo pa recibir al cliente
+[INFO] 13:03:24:370 SWAMP/(21051:21051): Se conecto un cliente!
+[INFO] 13:03:24:370 SWAMP/(21051:21051): entro a trabajemos con el cliente
+
+[INFO] 13:03:24:371 SWAMP/(21051:21051): tipo asignacion: DINAMICA
+[INFO] 13:07:13:469 SWAMP/(21543:21543): Servidor listo pa recibir al cliente
+[INFO] 13:07:15:084 SWAMP/(21543:21543): Se conecto un cliente!
+[INFO] 13:07:15:084 SWAMP/(21543:21543): entro a trabajemos con el cliente
+
+[INFO] 13:07:15:084 SWAMP/(21543:21543): tipo asignacion: DINAMICA
